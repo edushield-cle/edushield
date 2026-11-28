@@ -1,0 +1,59 @@
+{
+ "tong": 10000,
+ "theo_nhan": {
+  "bat_nat": 3000,
+  "binh_thuong": 4000,
+  "lua_dao": 3000
+ },
+ "theo_loai": {
+  "bn_de_doa": 450,
+  "bt_ban_be": 550,
+  "ld_trung_thuong": 350,
+  "ld_chuyen_tien": 400,
+  "ld_khac": 250,
+  "link_nguy_hiem": 450,
+  "bt_link_khac": 550,
+  "bn_phat_tan": 450,
+  "bt_dua_gion": 700,
+  "bn_tran_lot": 450,
+  "ld_otp": 350,
+  "bt_canh_bao_dung": 300,
+  "bn_co_lap": 450,
+  "bt_gia_dinh": 350,
+  "ld_de_doa": 300,
+  "bt_hoc_tap": 600,
+  "ld_viec_lam": 350,
+  "ld_thong_tin": 300,
+  "bt_thong_bao_truong": 500,
+  "bt_tai_chinh_hop_le": 450,
+  "bn_khac": 350,
+  "bn_tin_don": 400,
+  "bn_lang_ma": 450,
+  "ld_the_cao": 250
+ },
+ "theo_tap": {
+  "test": 1616,
+  "train": 6768,
+  "val": 1616
+ },
+ "so_template": 282,
+ "mau_kho": 2501,
+ "mau_co_link": 2330,
+ "theo_tap_va_nhan": {
+  "train": {
+   "binh_thuong": 2701,
+   "lua_dao": 2072,
+   "bat_nat": 1995
+  },
+  "val": {
+   "binh_thuong": 649,
+   "lua_dao": 464,
+   "bat_nat": 503
+  },
+  "test": {
+   "bat_nat": 502,
+   "binh_thuong": 650,
+   "lua_dao": 464
+  }
+ }
+}

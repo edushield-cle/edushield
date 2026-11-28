@@ -1,0 +1,975 @@
+﻿cum_tu,cum_tu_khong_dau,nhan,nhom,do_chinh_xac_tren_train,so_lan_xuat_hien,nguon
+ai thèm,ai them,bat_nat,bn_co_lap,1.0,40,rut_tu_du_lieu
+bi tay,bi tay,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+biến khỏi,bien khoi,bat_nat,bn_co_lap,1.0,35,hoc_sinh_soan
+bọn,bon,bat_nat,bn_co_lap,1.0,40,rut_tu_du_lieu
+chat,chat,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+chay,chay,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+chỉ làm,chi lam,bat_nat,bn_co_lap,1.0,76,rut_tu_du_lieu
+chưa haha,chua haha,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+chưa nghe,chua nghe,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+chưa :v,chua v,bat_nat,bn_co_lap,1.0,13,rut_tu_du_lieu
+con linh,con linh,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+con Long,con long,bat_nat,bn_co_lap,1.0,7,rut_tu_du_lieu
+con mai,con mai,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+"đâu, tự",dau tu,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+"đi, cả",di ca,bat_nat,bn_co_lap,1.0,39,rut_tu_du_lieu
+"đi, nhìn",di nhin,bat_nat,bn_co_lap,1.0,36,rut_tu_du_lieu
+đồng ý,dong y,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+đừng chơi với,dung choi voi,bat_nat,bn_co_lap,1.0,84,hoc_sinh_soan
+ê xoá,e xoa,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+khỏi,khoi,bat_nat,bn_co_lap,1.0,162,rut_tu_du_lieu
+không ai ưa,khong ai ua,bat_nat,bn_co_lap,1.0,35,hoc_sinh_soan
+kick,kick,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+la bi,la bi,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+"lại, không ai",lai khong ai,bat_nat,bn_co_lap,1.0,32,rut_tu_du_lieu
+làm mất,lam mat,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+lớp đồng,lop dong,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+lop oi,lop oi,bat_nat,bn_co_lap,1.0,40,rut_tu_du_lieu
+luon day,luon day,bat_nat,bn_co_lap,1.0,13,rut_tu_du_lieu
+mất vui,mat vui,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+mày đâu,may dau,bat_nat,bn_co_lap,1.0,37,rut_tu_du_lieu
+mình bỏ,minh bo,bat_nat,bn_co_lap,1.0,34,rut_tu_du_lieu
+mk bỏ,mk bo,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+ne ca,ne ca,bat_nat,bn_co_lap,1.0,6,rut_tu_du_lieu
+ngứa,ngua,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+no,no,bat_nat,bn_co_lap,1.0,262,rut_tu_du_lieu
+nua,nua,bat_nat,bn_co_lap,1.0,193,rut_tu_du_lieu
+ơi cả,oi ca,bat_nat,bn_co_lap,1.0,31,rut_tu_du_lieu
+ơi xoá,oi xoa,bat_nat,bn_co_lap,1.0,9,rut_tu_du_lieu
+phận đi,phan di,bat_nat,bn_co_lap,1.0,39,rut_tu_du_lieu
+rủ,ru,bat_nat,bn_co_lap,1.0,81,rut_tu_du_lieu
+tẩy chay,tay chay,bat_nat,bn_co_lap,1.0,41,hoc_sinh_soan
+tu nay,tu nay,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+ưa,ua,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+voi con,voi con,bat_nat,bn_co_lap,1.0,39,rut_tu_du_lieu
+ý chưa,y chua,bat_nat,bn_co_lap,1.0,41,rut_tu_du_lieu
+nhóm đi,nhom di,bat_nat,bn_co_lap,0.923,39,rut_tu_du_lieu
+oi tu,oi tu,bat_nat,bn_co_lap,0.9,10,rut_tu_du_lieu
+ra rìa,ra ria,bat_nat,bn_co_lap,0.0,0,hoc_sinh_soan
+bài ngay,bai ngay,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+bên,ben,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+biết tay,biet tay,bat_nat,bn_de_doa,1.0,74,hoc_sinh_soan
+canh,canh,bat_nat,bn_de_doa,1.0,82,rut_tu_du_lieu
+cho haha,cho haha,bat_nat,bn_de_doa,1.0,6,rut_tu_du_lieu
+cho m,cho m,bat_nat,bn_de_doa,1.0,9,rut_tu_du_lieu
+cho mày,cho may,bat_nat,bn_de_doa,1.0,73,rut_tu_du_lieu
+đánh cho,danh cho,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+để tao,de tao,bat_nat,bn_de_doa,1.0,38,rut_tu_du_lieu
+đứa lớp,dua lop,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+đừng để,dung de,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+đừng trách,dung trach,bat_nat,bn_de_doa,1.0,41,hoc_sinh_soan
+gặp mày,gap may,bat_nat,bn_de_doa,1.0,37,rut_tu_du_lieu
+hoc tao,hoc tao,bat_nat,bn_de_doa,1.0,38,rut_tu_du_lieu
+hồn,hon,bat_nat,bn_de_doa,1.0,321,rut_tu_du_lieu
+không tao,khong tao,bat_nat,bn_de_doa,1.0,31,rut_tu_du_lieu
+liệu hồn,lieu hon,bat_nat,bn_de_doa,1.0,321,hoc_sinh_soan
+mai tao,mai tao,bat_nat,bn_de_doa,1.0,38,rut_tu_du_lieu
+mặt mày,mat may,bat_nat,bn_de_doa,1.0,38,rut_tu_du_lieu
+may con,may con,bat_nat,bn_de_doa,1.0,39,rut_tu_du_lieu
+mấy đứa,may dua,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+mày liệu,may lieu,bat_nat,bn_de_doa,1.0,14,rut_tu_du_lieu
+mày mà,may ma,bat_nat,bn_de_doa,1.0,40,rut_tu_du_lieu
+mày một,may mot,bat_nat,bn_de_doa,1.0,37,rut_tu_du_lieu
+may o,may o,bat_nat,bn_de_doa,1.0,37,rut_tu_du_lieu
+mày r,may r,bat_nat,bn_de_doa,1.0,11,rut_tu_du_lieu
+"mày, tao",may tao,bat_nat,bn_de_doa,1.0,33,rut_tu_du_lieu
+mày xoá,may xoa,bat_nat,bn_de_doa,1.0,36,rut_tu_du_lieu
+miệng,mieng,bat_nat,bn_de_doa,1.0,40,rut_tu_du_lieu
+mình ở,minh o,bat_nat,bn_de_doa,1.0,39,rut_tu_du_lieu
+một mình,mot minh,bat_nat,bn_de_doa,1.0,39,rut_tu_du_lieu
+"này, tan",nay tan,bat_nat,bn_de_doa,1.0,7,rut_tu_du_lieu
+ngoi,ngoi,bat_nat,bn_de_doa,1.0,82,rut_tu_du_lieu
+nhớ mặt,nho mat,bat_nat,bn_de_doa,1.0,40,rut_tu_du_lieu
+ơi tan,oi tan,bat_nat,bn_de_doa,1.0,15,rut_tu_du_lieu
+sân,san,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+sau đấy,sau day,bat_nat,bn_de_doa,1.0,6,rut_tu_du_lieu
+t cho,t cho,bat_nat,bn_de_doa,1.0,6,rut_tu_du_lieu
+t danh,t danh,bat_nat,bn_de_doa,1.0,8,rut_tu_du_lieu
+t thi,t thi,bat_nat,bn_de_doa,1.0,8,rut_tu_du_lieu
+tao cho,tao cho,bat_nat,bn_de_doa,1.0,76,rut_tu_du_lieu
+tao danh,tao danh,bat_nat,bn_de_doa,1.0,33,rut_tu_du_lieu
+tao đấy,tao day,bat_nat,bn_de_doa,1.0,8,rut_tu_du_lieu
+tao gặp,tao gap,bat_nat,bn_de_doa,1.0,38,rut_tu_du_lieu
+tao liệu,tao lieu,bat_nat,bn_de_doa,1.0,9,rut_tu_du_lieu
+tao nhớ,tao nho,bat_nat,bn_de_doa,1.0,35,rut_tu_du_lieu
+tao thi,tao thi,bat_nat,bn_de_doa,1.0,33,rut_tu_du_lieu
+tao với,tao voi,bat_nat,bn_de_doa,1.0,36,rut_tu_du_lieu
+tay đấy,tay day,bat_nat,bn_de_doa,1.0,9,rut_tu_du_lieu
+tay liệu,tay lieu,bat_nat,bn_de_doa,1.0,12,rut_tu_du_lieu
+thận cái,than cai,bat_nat,bn_de_doa,1.0,40,rut_tu_du_lieu
+thì đừng,thi dung,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+thi t,thi t,bat_nat,bn_de_doa,1.0,8,rut_tu_du_lieu
+thi tao,thi tao,bat_nat,bn_de_doa,1.0,33,rut_tu_du_lieu
+trách,trach,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+"truong, lieu",truong lieu,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+với mấy,voi may,bat_nat,bn_de_doa,1.0,39,rut_tu_du_lieu
+xoá bài,xoa bai,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+xử,xu,bat_nat,bn_de_doa,1.0,41,rut_tu_du_lieu
+xử mày,xu may,bat_nat,bn_de_doa,1.0,36,hoc_sinh_soan
+"nghe này, mày",nghe nay may,bat_nat,bn_de_doa,0.966,29,rut_tu_du_lieu
+tao,tao,bat_nat,bn_de_doa,0.942,625,rut_tu_du_lieu
+liệu,lieu,bat_nat,bn_de_doa,0.922,348,rut_tu_du_lieu
+chờ ở cổng,cho o cong,bat_nat,bn_de_doa,0.0,0,hoc_sinh_soan
+chỉ giỏi,chi gioi,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+"chưa, cả",chua ca,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+chuyện với,chuyen voi,bat_nat,bn_khac,1.0,35,rut_tu_du_lieu
+có nói,co noi,bat_nat,bn_khac,1.0,38,rut_tu_du_lieu
+co tham,co tham,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+cũng thấy,cung thay,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+cuoi m,cuoi m,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+cười mày,cuoi may,bat_nat,bn_khac,1.0,33,rut_tu_du_lieu
+cười thôi,cuoi thoi,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+đấy đấy,day day,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+đấy nghe,day nghe,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+"diem, dung",diem dung,bat_nat,bn_khac,1.0,35,rut_tu_du_lieu
+điều,dieu,bat_nat,bn_khac,1.0,34,rut_tu_du_lieu
+đừng có,dung co,bat_nat,bn_khac,1.0,112,rut_tu_du_lieu
+ê cả,e ca,bat_nat,bn_khac,1.0,7,rut_tu_du_lieu
+giỏi làm,gioi lam,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+hèn,hen,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+hổ chưa,ho chua,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+im,im,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+kìa haha,kia haha,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+kìa liệu,kia lieu,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+kia nghe,kia nghe,bat_nat,bn_khac,1.0,9,rut_tu_du_lieu
+là phát,la phat,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+lam nhom,lam nhom,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+làm trò,lam tro,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+lớp cười,lop cuoi,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+m kia,m kia,bat_nat,bn_khac,1.0,8,rut_tu_du_lieu
+mat diem,mat diem,bat_nat,bn_khac,1.0,35,rut_tu_du_lieu
+mày chỉ,may chi,bat_nat,bn_khac,1.0,71,rut_tu_du_lieu
+mày kìa,may kia,bat_nat,bn_khac,1.0,65,rut_tu_du_lieu
+mày là,may la,bat_nat,bn_khac,1.0,35,rut_tu_du_lieu
+may lam,may lam,bat_nat,bn_khac,1.0,36,rut_tu_du_lieu
+mệt,met,bat_nat,bn_khac,1.0,38,rut_tu_du_lieu
+nhom mat,nhom mat,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+nói chuyện,noi chuyen,bat_nat,bn_khac,1.0,38,rut_tu_du_lieu
+phát ngán,phat ngan,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+phiền,phien,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+ra đấy,ra day,bat_nat,bn_khac,1.0,8,rut_tu_du_lieu
+ra haha,ra haha,bat_nat,bn_khac,1.0,10,rut_tu_du_lieu
+ra liệu,ra lieu,bat_nat,bn_khac,1.0,6,rut_tu_du_lieu
+tao ra,tao ra,bat_nat,bn_khac,1.0,37,rut_tu_du_lieu
+tham gia,tham gia,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+thấy mày,thay may,bat_nat,bn_khac,1.0,35,rut_tu_du_lieu
+trò cười,tro cuoi,bat_nat,bn_khac,1.0,39,rut_tu_du_lieu
+tụi,tui,bat_nat,bn_khac,1.0,77,rut_tu_du_lieu
+ăn hại,an hai,bat_nat,bn_lang_ma,1.0,17,rut_tu_du_lieu
+bat,bat,bat_nat,bn_lang_ma,1.0,10,rut_tu_du_lieu
+béo,beo,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+béo như,beo nhu,bat_nat,bn_lang_ma,1.0,35,hoc_sinh_soan
+bộ dạng,bo dang,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+bò mà,bo ma,bat_nat,bn_lang_ma,1.0,7,rut_tu_du_lieu
+"bo, noi",bo noi,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+có vào,co vao,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+con mat,con mat,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+cũng đòi,cung doi,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+cung hong,cung hong,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+cũng không,cung khong,bat_nat,bn_lang_ma,1.0,31,rut_tu_du_lieu
+đần độn,dan don,bat_nat,bn_lang_ma,1.0,11,rut_tu_du_lieu
+dạng của,dang cua,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+đi liệu,di lieu,bat_nat,bn_lang_ma,1.0,19,rut_tu_du_lieu
+đồ đần,do dan,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+đồ ngu,do ngu,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+đòi mặc,doi mac,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+dot,dot,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+dung la,dung la,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+ghét,ghet,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+gi,gi,bat_nat,bn_lang_ma,1.0,31,rut_tu_du_lieu
+"hại, biến",hai bien,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+hãm,ham,bat_nat,bn_lang_ma,1.0,15,rut_tu_du_lieu
+hành như,hanh nhu,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+heo mà,heo ma,bat_nat,bn_lang_ma,1.0,8,rut_tu_du_lieu
+"heo, nói",heo noi,bat_nat,bn_lang_ma,1.0,7,rut_tu_du_lieu
+hiểu nghe,hieu nghe,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+hổ thay,ho thay,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+hoc ha,hoc ha,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+học hành,hoc hanh,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+hong lieu,hong lieu,bat_nat,bn_lang_ma,1.0,8,rut_tu_du_lieu
+hong nghe,hong nghe,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+không hiểu,khong hieu,bat_nat,bn_lang_ma,1.0,31,rut_tu_du_lieu
+la do,la do,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+là thấy,la thay,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+lop haha,lop haha,bat_nat,bn_lang_ma,1.0,9,rut_tu_du_lieu
+lớp này,lop nay,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+mà cũng,ma cung,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+ma di,ma di,bat_nat,bn_lang_ma,1.0,31,rut_tu_du_lieu
+mặc váy,mac vay,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+mãi cũng,mai cung,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+mat lop,mat lop,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+mày ngu,may ngu,bat_nat,bn_lang_ma,1.0,32,rut_tu_du_lieu
+mui,mui,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+nao ma,nao ma,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+"này, đầu",nay dau,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+ngu ngốc,ngu ngoc,bat_nat,bn_lang_ma,1.0,9,rut_tu_du_lieu
+ngu thế,ngu the,bat_nat,bn_lang_ma,1.0,33,rut_tu_du_lieu
+nhìn bộ,nhin bo,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+nhìn mặt,nhin mat,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+nhóm này,nhom nay,bat_nat,bn_lang_ma,1.0,35,rut_tu_du_lieu
+nhu may,nhu may,bat_nat,bn_lang_ma,1.0,33,rut_tu_du_lieu
+nói mãi,noi mai,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+óc,oc,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+oi dau,oi dau,bat_nat,bn_lang_ma,1.0,14,rut_tu_du_lieu
+phế,phe,bat_nat,bn_lang_ma,1.0,13,rut_tu_du_lieu
+phi mà,phi ma,bat_nat,bn_lang_ma,1.0,12,rut_tu_du_lieu
+"phi, nói",phi noi,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+rác,rac,bat_nat,bn_lang_ma,1.0,16,rut_tu_du_lieu
+rác rưởi,rac ruoi,bat_nat,bn_lang_ma,1.0,16,hoc_sinh_soan
+rưởi,ruoi,bat_nat,bn_lang_ma,1.0,16,rut_tu_du_lieu
+thay liệu,thay lieu,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+the nay,the nay,bat_nat,bn_lang_ma,1.0,34,rut_tu_du_lieu
+trâu mà,trau ma,bat_nat,bn_lang_ma,1.0,6,rut_tu_du_lieu
+"trâu, nói",trau noi,bat_nat,bn_lang_ma,1.0,10,rut_tu_du_lieu
+vô,vo,bat_nat,bn_lang_ma,1.0,13,rut_tu_du_lieu
+vô dụng,vo dung,bat_nat,bn_lang_ma,1.0,13,hoc_sinh_soan
+xấu,xau,bat_nat,bn_lang_ma,1.0,249,rut_tu_du_lieu
+xấu hổ,xau ho,bat_nat,bn_lang_ma,1.0,74,hoc_sinh_soan
+ảnh dìm,anh dim,bat_nat,bn_phat_tan,1.0,90,hoc_sinh_soan
+bảo cả,bao ca,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+ca truong,ca truong,bat_nat,bn_phat_tan,1.0,224,rut_tu_du_lieu
+cho cả lớp,cho ca lop,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+cho mọi,cho moi,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+chung,chung,bat_nat,bn_phat_tan,1.0,86,rut_tu_du_lieu
+clip,clip,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+của Linh,cua linh,bat_nat,bn_phat_tan,1.0,8,rut_tu_du_lieu
+của mày,cua may,bat_nat,bn_phat_tan,1.0,152,rut_tu_du_lieu
+của nhi,cua nhi,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+cuoi nao,cuoi nao,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+đảm,dam,bat_nat,bn_phat_tan,1.0,86,rut_tu_du_lieu
+đăng ảnh,dang anh,bat_nat,bn_phat_tan,1.0,90,rut_tu_du_lieu
+dat len,dat len,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+"đây, không",day khong,bat_nat,bn_phat_tan,1.0,76,rut_tu_du_lieu
+"đây, ko",day ko,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+đi cho,di cho,bat_nat,bn_phat_tan,1.0,43,rut_tu_du_lieu
+dim,dim,bat_nat,bn_phat_tan,1.0,90,rut_tu_du_lieu
+đọc đấy,doc day,bat_nat,bn_phat_tan,1.0,9,rut_tu_du_lieu
+đọc haha,doc haha,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+đọc nghe,doc nghe,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+giả đăng,gia dang,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+group,group,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+gửi tin,gui tin,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+hạnh lên,hanh len,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+Hùng lên,hung len,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+kem chu,kem chu,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+không muốn,khong muon,bat_nat,bn_phat_tan,1.0,38,rut_tu_du_lieu
+Lan len,lan len,bat_nat,bn_phat_tan,1.0,9,rut_tu_du_lieu
+lập,lap,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+len mang,len mang,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+linh lên,linh len,bat_nat,bn_phat_tan,1.0,8,rut_tu_du_lieu
+lớp cho,lop cho,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+lớp đọc,lop doc,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+luôn liệu,luon lieu,bat_nat,bn_phat_tan,1.0,9,rut_tu_du_lieu
+luon nghe,luon nghe,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+mang kem,mang kem,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+mày đây,may day,bat_nat,bn_phat_tan,1.0,55,rut_tu_du_lieu
+muốn cả,muon ca,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+nào haha,nao haha,bat_nat,bn_phat_tan,1.0,9,rut_tu_du_lieu
+này tao,nay tao,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+"này, up",nay up,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+người xem,nguoi xem,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+nhuc,nhuc,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+oi tao,oi tao,bat_nat,bn_phat_tan,1.0,13,rut_tu_du_lieu
+oi up,oi up,bat_nat,bn_phat_tan,1.0,14,rut_tu_du_lieu
+phương lên,phuong len,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+Quan len,quan len,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+riêng,rieng,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+share,share,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+sơn lên,son len,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+tao có,tao co,bat_nat,bn_phat_tan,1.0,41,rut_tu_du_lieu
+thì liệu,thi lieu,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+thich,thich,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+trang giả,trang gia,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+truong cuoi,truong cuoi,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+trường xem,truong xem,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+tú lên,tu len,bat_nat,bn_phat_tan,1.0,6,rut_tu_du_lieu
+up ảnh,up anh,bat_nat,bn_phat_tan,1.0,45,rut_tu_du_lieu
+vào nhóm,vao nhom,bat_nat,bn_phat_tan,1.0,80,rut_tu_du_lieu
+xem liệu,xem lieu,bat_nat,bn_phat_tan,1.0,7,rut_tu_du_lieu
+bí mật của,bi mat cua,bat_nat,bn_phat_tan,0.0,0,hoc_sinh_soan
+chụp màn hình,chup man hinh,bat_nat,bn_phat_tan,0.0,0,hoc_sinh_soan
+đăng lên mạng,dang len mang,bat_nat,bn_phat_tan,0.0,0,hoc_sinh_soan
+tung ảnh,tung anh,bat_nat,bn_phat_tan,0.0,0,hoc_sinh_soan
+ai cũng,ai cung,bat_nat,bn_tin_don,1.0,139,rut_tu_du_lieu
+alo nghe,alo nghe,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+an cap,an cap,bat_nat,bn_tin_don,1.0,44,rut_tu_du_lieu
+bẩn lắm,ban lam,bat_nat,bn_tin_don,1.0,61,rut_tu_du_lieu
+bị cả,bi ca,bat_nat,bn_tin_don,1.0,63,rut_tu_du_lieu
+biet,biet,bat_nat,bn_tin_don,1.0,536,rut_tu_du_lieu
+bít,bit,bat_nat,bn_tin_don,1.0,65,rut_tu_du_lieu
+choi,choi,bat_nat,bn_tin_don,1.0,89,rut_tu_du_lieu
+chuyen di,chuyen di,bat_nat,bn_tin_don,1.0,51,rut_tu_du_lieu
+có người,co nguoi,bat_nat,bn_tin_don,1.0,49,rut_tu_du_lieu
+cũ,cu,bat_nat,bn_tin_don,1.0,63,rut_tu_du_lieu
+cũng bảo,cung bao,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+di day,di day,bat_nat,bn_tin_don,1.0,25,rut_tu_du_lieu
+di haha,di haha,bat_nat,bn_tin_don,1.0,18,rut_tu_du_lieu
+đi nghe,di nghe,bat_nat,bn_tin_don,1.0,20,rut_tu_du_lieu
+"do, lan",do lan,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+"dối, ai",doi ai,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+"doi, ca",doi ca,bat_nat,bn_tin_don,1.0,8,rut_tu_du_lieu
+dối đó,doi do,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+"dối, đừng",doi dung,bat_nat,bn_tin_don,1.0,13,rut_tu_du_lieu
+"dối, nhưng",doi nhung,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+đúng thật,dung that,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+"đuổi, ai",duoi ai,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+"đuổi, cả",duoi ca,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+đuổi đó,duoi do,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+"đuổi, đừng",duoi dung,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+"đuổi, nhưng",duoi nhung,bat_nat,bn_tin_don,1.0,11,rut_tu_du_lieu
+ê mỗi,e moi,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+ê nghe,e nghe,bat_nat,bn_tin_don,1.0,8,rut_tu_du_lieu
+hay an,hay an,bat_nat,bn_tin_don,1.0,44,rut_tu_du_lieu
+hay nói,hay noi,bat_nat,bn_tin_don,1.0,57,rut_tu_du_lieu
+hết rồi,het roi,bat_nat,bn_tin_don,1.0,45,rut_tu_du_lieu
+kể,ke,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+"lắm, ai",lam ai,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+"lắm, cả",lam ca,bat_nat,bn_tin_don,1.0,11,rut_tu_du_lieu
+lắm đó,lam do,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+"lắm, đừng",lam dung,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+"lắm, nhưng",lam nhung,bat_nat,bn_tin_don,1.0,12,rut_tu_du_lieu
+lan truyen,lan truyen,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+leo,leo,bat_nat,bn_tin_don,1.0,55,rut_tu_du_lieu
+loại,loai,bat_nat,bn_tin_don,1.0,100,rut_tu_du_lieu
+loại đấy,loai day,bat_nat,bn_tin_don,1.0,50,hoc_sinh_soan
+lưng,lung,bat_nat,bn_tin_don,1.0,61,rut_tu_du_lieu
+mach,mach,bat_nat,bn_tin_don,1.0,141,rut_tu_du_lieu
+nay moi,nay moi,bat_nat,bn_tin_don,1.0,14,rut_tu_du_lieu
+"nay, nghe",nay nghe,bat_nat,bn_tin_don,1.0,13,rut_tu_du_lieu
+ne moi,ne moi,bat_nat,bn_tin_don,1.0,11,rut_tu_du_lieu
+nè nghe,ne nghe,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+nghe chưa,nghe chua,bat_nat,bn_tin_don,1.0,249,rut_tu_du_lieu
+nghe don,nghe don,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+nghe nói,nghe noi,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+người ơi ai,nguoi oi ai,bat_nat,bn_tin_don,1.0,7,rut_tu_du_lieu
+nhé đấy,nhe day,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+nhé haha,nhe haha,bat_nat,bn_tin_don,1.0,7,rut_tu_du_lieu
+nhé nghe,nhe nghe,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+nhưng tao,nhung tao,bat_nat,bn_tin_don,1.0,45,rut_tu_du_lieu
+nói dối,noi doi,bat_nat,bn_tin_don,1.0,57,rut_tu_du_lieu
+ơi mỗi,oi moi,bat_nat,bn_tin_don,1.0,23,rut_tu_du_lieu
+ơi nghe,oi nghe,bat_nat,bn_tin_don,1.0,27,rut_tu_du_lieu
+ra nghe,ra nghe,bat_nat,bn_tin_don,1.0,12,rut_tu_du_lieu
+rồi haha,roi haha,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+rồi liệu,roi lieu,bat_nat,bn_tin_don,1.0,11,rut_tu_du_lieu
+rồi nghe,roi nghe,bat_nat,bn_tin_don,1.0,24,rut_tu_du_lieu
+tao thấy,tao thay,bat_nat,bn_tin_don,1.0,45,rut_tu_du_lieu
+thật liệu,that lieu,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+that nghe,that nghe,bat_nat,bn_tin_don,1.0,6,rut_tu_du_lieu
+thấy đúng,thay dung,bat_nat,bn_tin_don,1.0,51,rut_tu_du_lieu
+thì bẩn,thi ban,bat_nat,bn_tin_don,1.0,9,rut_tu_du_lieu
+thì bị,thi bi,bat_nat,bn_tin_don,1.0,10,rut_tu_du_lieu
+thì chuyên,thi chuyen,bat_nat,bn_tin_don,1.0,12,rut_tu_du_lieu
+thì hay,thi hay,bat_nat,bn_tin_don,1.0,8,rut_tu_du_lieu
+toàn nói,toan noi,bat_nat,bn_tin_don,1.0,61,rut_tu_du_lieu
+tránh,tranh,bat_nat,bn_tin_don,1.0,89,rut_tu_du_lieu
+trường sắp,truong sap,bat_nat,bn_tin_don,1.0,50,rut_tu_du_lieu
+truyen di,truyen di,bat_nat,bn_tin_don,1.0,45,rut_tu_du_lieu
+vat,vat,bat_nat,bn_tin_don,1.0,57,rut_tu_du_lieu
+xa,xa,bat_nat,bn_tin_don,1.0,89,rut_tu_du_lieu
+đồn là,don la,bat_nat,bn_tin_don,0.0,0,hoc_sinh_soan
+200k nếu,200k neu,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+"2tr, không",2tr khong,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+2tr nếu,2tr neu,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+"500k, không",500k khong,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+"50k, không",50k khong,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+50k moi,50k moi,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+ai thì,ai thi,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+alo dua,alo dua,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+alo moi,alo moi,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+ăn của,an cua,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+của m,cua m,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+đâu đấy,dau day,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+đâu haha,dau haha,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+đâu liệu,dau lieu,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+đâu nghe,dau nghe,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+day cho,day cho,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+đây k,day k,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+day :v,day v,bat_nat,bn_tran_lot,1.0,10,rut_tu_du_lieu
+do an,do an,bat_nat,bn_tran_lot,1.0,57,rut_tu_du_lieu
+động tới,dong toi,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+dua dien,dua dien,bat_nat,bn_tran_lot,1.0,43,rut_tu_du_lieu
+đưa tiền,dua tien,bat_nat,bn_tran_lot,1.0,42,rut_tu_du_lieu
+đừng đi,dung di,bat_nat,bn_tran_lot,1.0,40,rut_tu_du_lieu
+ê đưa,e dua,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+ê tuần,e tuan,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+học đấy,hoc day,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+học liệu,hoc lieu,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+học nghe,hoc nghe,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+k thì,k thi,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+không động,khong dong,bat_nat,bn_tran_lot,1.0,39,rut_tu_du_lieu
+không nộp,khong nop,bat_nat,bn_tran_lot,1.0,41,rut_tu_du_lieu
+khong thi,khong thi,bat_nat,bn_tran_lot,1.0,77,rut_tu_du_lieu
+không thì mai,khong thi mai,bat_nat,bn_tran_lot,1.0,38,hoc_sinh_soan
+ko thì,ko thi,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+lấy đồ,lay do,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+m rồi,m roi,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+mai đừng,mai dung,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+mày nghe,may nghe,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+mày rồi,may roi,bat_nat,bn_tran_lot,1.0,65,rut_tu_du_lieu
+mỗi tuần,moi tuan,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+"muon, khong",muon khong,bat_nat,bn_tran_lot,1.0,39,rut_tu_du_lieu
+muốn yên,muon yen,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+này đưa,nay dua,bat_nat,bn_tran_lot,1.0,14,rut_tu_du_lieu
+nay lay,nay lay,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+ne dua,ne dua,bat_nat,bn_tran_lot,1.0,8,rut_tu_du_lieu
+nếu muốn,neu muon,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+ngày nộp,ngay nop,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+nộp cho,nop cho,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+nộp tao,nop tao,bat_nat,bn_tran_lot,1.0,87,rut_tu_du_lieu
+nộp thì,nop thi,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+oi dua,oi dua,bat_nat,bn_tran_lot,1.0,30,rut_tu_du_lieu
+ơi lấy,oi lay,bat_nat,bn_tran_lot,1.0,16,rut_tu_du_lieu
+ơi tuần,oi tuan,bat_nat,bn_tran_lot,1.0,14,rut_tu_du_lieu
+phải,phai,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+r đấy,r day,bat_nat,bn_tran_lot,1.0,17,rut_tu_du_lieu
+rồi đấy,roi day,bat_nat,bn_tran_lot,1.0,89,rut_tu_du_lieu
+sáng đây,sang day,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+sẽ không,se khong,bat_nat,bn_tran_lot,1.0,39,rut_tu_du_lieu
+tao 1,tao 1,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+tao 150k,tao 150k,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+tao 200k,tao 200k,bat_nat,bn_tran_lot,1.0,13,rut_tu_du_lieu
+tao 2tr,tao 2tr,bat_nat,bn_tran_lot,1.0,18,rut_tu_du_lieu
+tao 3,tao 3,bat_nat,bn_tran_lot,1.0,17,rut_tu_du_lieu
+tao 300,tao 300,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+tao 5,tao 5,bat_nat,bn_tran_lot,1.0,14,rut_tu_du_lieu
+tao 500k,tao 500k,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+tao 50k,tao 50k,bat_nat,bn_tran_lot,1.0,20,rut_tu_du_lieu
+tao 700k,tao 700k,bat_nat,bn_tran_lot,1.0,11,rut_tu_du_lieu
+tao muon,tao muon,bat_nat,bn_tran_lot,1.0,43,rut_tu_du_lieu
+tao sẽ,tao se,bat_nat,bn_tran_lot,1.0,42,rut_tu_du_lieu
+tay haha,tay haha,bat_nat,bn_tran_lot,1.0,13,rut_tu_du_lieu
+tay nghe,tay nghe,bat_nat,bn_tran_lot,1.0,10,rut_tu_du_lieu
+thân haha,than haha,bat_nat,bn_tran_lot,1.0,10,rut_tu_du_lieu
+than lieu,than lieu,bat_nat,bn_tran_lot,1.0,7,rut_tu_du_lieu
+thân nghe,than nghe,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+thì không,thi khong,bat_nat,bn_tran_lot,1.0,36,rut_tu_du_lieu
+thì ko,thi ko,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+thì mai,thi mai,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+thoai day,thoai day,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+tới mày,toi may,bat_nat,bn_tran_lot,1.0,42,rut_tu_du_lieu
+"triệu, không",trieu khong,bat_nat,bn_tran_lot,1.0,10,rut_tu_du_lieu
+triệu mỗi,trieu moi,bat_nat,bn_tran_lot,1.0,18,rut_tu_du_lieu
+trieu neu,trieu neu,bat_nat,bn_tran_lot,1.0,12,rut_tu_du_lieu
+tuần này,tuan nay,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+"tuần, tao",tuan tao,bat_nat,bn_tran_lot,1.0,42,rut_tu_du_lieu
+xong,xong,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+yên đấy,yen day,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+yên nghe,yen nghe,bat_nat,bn_tran_lot,1.0,6,rut_tu_du_lieu
+yên thân,yen than,bat_nat,bn_tran_lot,1.0,45,rut_tu_du_lieu
+này mày,nay may,bat_nat,bn_tran_lot,0.941,101,rut_tu_du_lieu
+nộp tiền,nop tien,bat_nat,bn_tran_lot,0.0,0,hoc_sinh_soan
+150k tiền,150k tien,lua_dao,ld_chuyen_tien,1.0,10,rut_tu_du_lieu
+150k vào,150k vao,lua_dao,ld_chuyen_tien,1.0,15,rut_tu_du_lieu
+200k tien,200k tien,lua_dao,ld_chuyen_tien,1.0,8,rut_tu_du_lieu
+200k vào,200k vao,lua_dao,ld_chuyen_tien,1.0,11,rut_tu_du_lieu
+2tr tiền,2tr tien,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+"2tr, vào",2tr vao,lua_dao,ld_chuyen_tien,1.0,19,rut_tu_du_lieu
+50,50,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+500k tiền,500k tien,lua_dao,ld_chuyen_tien,1.0,9,rut_tu_du_lieu
+500k vào,500k vao,lua_dao,ld_chuyen_tien,1.0,15,rut_tu_du_lieu
+50k tiền,50k tien,lua_dao,ld_chuyen_tien,1.0,8,rut_tu_du_lieu
+50k vao,50k vao,lua_dao,ld_chuyen_tien,1.0,12,rut_tu_du_lieu
+700k tien,700k tien,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+700k vào,700k vao,lua_dao,ld_chuyen_tien,1.0,14,rut_tu_du_lieu
+alo bạn,alo ban,lua_dao,ld_chuyen_tien,1.0,20,rut_tu_du_lieu
+anh 150k,anh 150k,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+anh họ,anh ho,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+Anh là,anh la,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+ban dien,ban dien,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+bạn thân,ban than,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+cho me,cho me,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+chuyển anh,chuyen anh,lua_dao,ld_chuyen_tien,1.0,32,rut_tu_du_lieu
+chuyen cho,chuyen cho,lua_dao,ld_chuyen_tien,1.0,35,rut_tu_du_lieu
+chuyển gấp,chuyen gap,lua_dao,ld_chuyen_tien,1.0,71,rut_tu_du_lieu
+chuyen giup,chuyen giup,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+chuyển vào,chuyen vao,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+Cô là,co la,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+cô nhé,co nhe,lua_dao,ld_chuyen_tien,1.0,31,rut_tu_du_lieu
+coc,coc,lua_dao,ld_chuyen_tien,1.0,71,rut_tu_du_lieu
+cọc trước,coc truoc,lua_dao,ld_chuyen_tien,1.0,36,hoc_sinh_soan
+con oi,con oi,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+dang dung,dang dung,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+đang họp,dang hop,lua_dao,ld_chuyen_tien,1.0,115,rut_tu_du_lieu
+"đây, chuyển",day chuyen,lua_dao,ld_chuyen_tien,1.0,32,rut_tu_du_lieu
+"đây, em",day em,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+dung so,dung so,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+ê bạn,e ban,lua_dao,ld_chuyen_tien,1.0,17,rut_tu_du_lieu
+em chuyển,em chuyen,lua_dao,ld_chuyen_tien,1.0,105,rut_tu_du_lieu
+em đây,em day,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+gấp 150k,gap 150k,lua_dao,ld_chuyen_tien,1.0,10,rut_tu_du_lieu
+gap 200k,gap 200k,lua_dao,ld_chuyen_tien,1.0,8,rut_tu_du_lieu
+gấp 2tr,gap 2tr,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+gấp 300,gap 300,lua_dao,ld_chuyen_tien,1.0,9,rut_tu_du_lieu
+gấp 5,gap 5,lua_dao,ld_chuyen_tien,1.0,7,rut_tu_du_lieu
+gấp 500k,gap 500k,lua_dao,ld_chuyen_tien,1.0,9,rut_tu_du_lieu
+gấp 50k,gap 50k,lua_dao,ld_chuyen_tien,1.0,8,rut_tu_du_lieu
+gap 700k,gap 700k,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+"gấp, chuyển",gap chuyen,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+gấp có,gap co,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+gấp ngay,gap ngay,lua_dao,ld_chuyen_tien,1.0,10,rut_tu_du_lieu
+gia hoc,gia hoc,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+giúp cô,giup co,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+họ em,ho em,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+"họp, em",hop em,lua_dao,ld_chuyen_tien,1.0,115,rut_tu_du_lieu
+là anh,la anh,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+lớp vào,lop vao,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+mai trả,mai tra,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+me dang,me dang,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+minh ban,minh ban,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+mình mượn,minh muon,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+"moi, chuyen",moi chuyen,lua_dao,ld_chuyen_tien,1.0,35,rut_tu_du_lieu
+mượn 1,muon 1,lua_dao,ld_chuyen_tien,1.0,8,rut_tu_du_lieu
+mượn 300,muon 300,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+nghìn gấp,nghin gap,lua_dao,ld_chuyen_tien,1.0,12,rut_tu_du_lieu
+nghìn tiền,nghin tien,lua_dao,ld_chuyen_tien,1.0,9,rut_tu_du_lieu
+nghìn vào,nghin vao,lua_dao,ld_chuyen_tien,1.0,13,rut_tu_du_lieu
+nhé gấp,nhe gap,lua_dao,ld_chuyen_tien,1.0,14,rut_tu_du_lieu
+"nhé, mai",nhe mai,lua_dao,ld_chuyen_tien,1.0,33,rut_tu_du_lieu
+nhé ngay,nhe ngay,lua_dao,ld_chuyen_tien,1.0,16,rut_tu_du_lieu
+nhiệm đây,nhiem day,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+ơi cho,oi cho,lua_dao,ld_chuyen_tien,1.0,67,rut_tu_du_lieu
+phí vào,phi vao,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+sinh 200k,sinh 200k,lua_dao,ld_chuyen_tien,1.0,7,rut_tu_du_lieu
+so moi,so moi,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+số tài khoản,so tai khoan,lua_dao,ld_chuyen_tien,1.0,33,hoc_sinh_soan
+stk,stk,lua_dao,ld_chuyen_tien,1.0,255,rut_tu_du_lieu
+thân ơi,than oi,lua_dao,ld_chuyen_tien,1.0,34,rut_tu_du_lieu
+thầy 1,thay 1,lua_dao,ld_chuyen_tien,1.0,10,rut_tu_du_lieu
+thay gui,thay gui,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+thoai gia,thoai gia,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+tiền học phí,tien hoc phi,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+tiền quỹ,tien quy,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+trả nha,tra nha,lua_dao,ld_chuyen_tien,1.0,6,rut_tu_du_lieu
+triệu gấp,trieu gap,lua_dao,ld_chuyen_tien,1.0,26,rut_tu_du_lieu
+triệu tiền,trieu tien,lua_dao,ld_chuyen_tien,1.0,17,rut_tu_du_lieu
+triệu vào,trieu vao,lua_dao,ld_chuyen_tien,1.0,46,rut_tu_du_lieu
+việc,viec,lua_dao,ld_chuyen_tien,1.0,36,rut_tu_du_lieu
+viên chủ,vien chu,lua_dao,ld_chuyen_tien,1.0,37,rut_tu_du_lieu
+gấp,gap,lua_dao,ld_chuyen_tien,0.929,576,rut_tu_du_lieu
+chuyển khoản,chuyen khoan,lua_dao,ld_chuyen_tien,0.0,56,hoc_sinh_soan
+đặt cọc,dat coc,lua_dao,ld_chuyen_tien,0.0,0,hoc_sinh_soan
+phí xử lý,phi xu ly,lua_dao,ld_chuyen_tien,0.0,0,hoc_sinh_soan
+24h,24h,lua_dao,ld_de_doa,1.0,73,rut_tu_du_lieu
+b bị,b bi,lua_dao,ld_de_doa,1.0,8,rut_tu_du_lieu
+b sẽ,b se,lua_dao,ld_de_doa,1.0,7,rut_tu_du_lieu
+bạn bị,ban bi,lua_dao,ld_de_doa,1.0,67,rut_tu_du_lieu
+bạn sắp,ban sap,lua_dao,ld_de_doa,1.0,34,rut_tu_du_lieu
+bạn sẽ,ban se,lua_dao,ld_de_doa,1.0,31,rut_tu_du_lieu
+bị khoá,bi khoa,lua_dao,ld_de_doa,1.0,114,rut_tu_du_lieu
+bị tạm,bi tam,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+bị xoá,bi xoa,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+bưu,buu,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+chưa nhận,chua nhan,lua_dao,ld_de_doa,1.0,36,rut_tu_du_lieu
+của b,cua b,lua_dao,ld_de_doa,1.0,33,rut_tu_du_lieu
+của bạn,cua ban,lua_dao,ld_de_doa,1.0,305,rut_tu_du_lieu
+cuối: số,cuoi so,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+e Thong,e thong,lua_dao,ld_de_doa,1.0,7,rut_tu_du_lieu
+gấp gấp,gap gap,lua_dao,ld_de_doa,1.0,7,rut_tu_du_lieu
+gấp nha,gap nha,lua_dao,ld_de_doa,1.0,196,rut_tu_du_lieu
+gap nhaaa,gap nhaaa,lua_dao,ld_de_doa,1.0,10,rut_tu_du_lieu
+giu,giu,lua_dao,ld_de_doa,1.0,73,rut_tu_du_lieu
+hien,hien,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+học tập,hoc tap,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+keo,keo,lua_dao,ld_de_doa,1.0,222,rut_tu_du_lieu
+"khoá, đăng",khoa dang,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+khoá ngay,khoa ngay,lua_dao,ld_de_doa,1.0,7,rut_tu_du_lieu
+khoá sau,khoa sau,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+khoan cua,khoan cua,lua_dao,ld_de_doa,1.0,75,rut_tu_du_lieu
+khoản học,khoan hoc,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+khoản ngân,khoan ngan,lua_dao,ld_de_doa,1.0,69,rut_tu_du_lieu
+kiện,kien,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+la vao,la vao,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+lại tài,lai tai,lua_dao,ld_de_doa,1.0,72,rut_tu_du_lieu
+minh ngay,minh ngay,lua_dao,ld_de_doa,1.0,42,rut_tu_du_lieu
+minh nha,minh nha,lua_dao,ld_de_doa,1.0,6,rut_tu_du_lieu
+minh tại,minh tai,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+nếu không,neu khong,lua_dao,ld_de_doa,1.0,29,rut_tu_du_lieu
+ngay tai,ngay tai,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+ngưng,ngung,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+người ơi Tài,nguoi oi tai,lua_dao,ld_de_doa,1.0,16,rut_tu_du_lieu
+nhaaaanh,nhaaaanh,lua_dao,ld_de_doa,1.0,7,rut_tu_du_lieu
+"nhận, thanh",nhan thanh,lua_dao,ld_de_doa,1.0,36,rut_tu_du_lieu
+nhap,nhap,lua_dao,ld_de_doa,1.0,214,rut_tu_du_lieu
+ơi phát,oi phat,lua_dao,ld_de_doa,1.0,15,rut_tu_du_lieu
+ơi thông,oi thong,lua_dao,ld_de_doa,1.0,9,rut_tu_du_lieu
+sắp bị,sap bi,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+sẽ bị,se bi,lua_dao,ld_de_doa,1.0,38,rut_tu_du_lieu
+ship,ship,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+số điện,so dien,lua_dao,ld_de_doa,1.0,67,rut_tu_du_lieu
+số gấp,so gap,lua_dao,ld_de_doa,1.0,8,rut_tu_du_lieu
+tai khoan,tai khoan,lua_dao,ld_de_doa,1.0,391,rut_tu_du_lieu
+tập của,tap cua,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+thoại của,thoai cua,lua_dao,ld_de_doa,1.0,72,rut_tu_du_lieu
+thông báo cuối,thong bao cuoi,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+toán phí,toan phi,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+trong 24h,trong 24h,lua_dao,ld_de_doa,1.0,35,hoc_sinh_soan
+vao tai,vao tai,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+xác minh ngay,xac minh ngay,lua_dao,ld_de_doa,1.0,42,hoc_sinh_soan
+"xoá, đăng",xoa dang,lua_dao,ld_de_doa,1.0,37,rut_tu_du_lieu
+báo cuối,bao cuoi,lua_dao,ld_de_doa,0.974,38,rut_tu_du_lieu
+ơi tài,oi tai,lua_dao,ld_de_doa,0.906,64,rut_tu_du_lieu
+công an,cong an,lua_dao,ld_de_doa,0.0,0,hoc_sinh_soan
+khoá tài khoản,khoa tai khoan,lua_dao,ld_de_doa,0.0,0,hoc_sinh_soan
+vụ án,vu an,lua_dao,ld_de_doa,0.0,0,hoc_sinh_soan
+0,0,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+"2tr, nhắn",2tr nhan,lua_dao,ld_khac,1.0,7,rut_tu_du_lieu
+500k/thang,500k thang,lua_dao,ld_khac,1.0,6,rut_tu_du_lieu
+50k/thang,50k thang,lua_dao,ld_khac,1.0,7,rut_tu_du_lieu
+"700k, nhan",700k nhan,lua_dao,ld_khac,1.0,8,rut_tu_du_lieu
+alo Cho,alo cho,lua_dao,ld_khac,1.0,6,rut_tu_du_lieu
+cần giấy,can giay,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+Cho vay,cho vay,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+follow,follow,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+giấy tờ,giay to,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+gói vay,goi vay,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+hack,hack,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+hệ,he,lua_dao,ld_khac,1.0,180,rut_tu_du_lieu
+khoản bị,khoan bi,lua_dao,ld_khac,1.0,34,rut_tu_du_lieu
+ko cần,ko can,lua_dao,ld_khac,1.0,10,rut_tu_du_lieu
+lấy lại,lay lai,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+like,like,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+này cho,nay cho,lua_dao,ld_khac,1.0,7,rut_tu_du_lieu
+nhan 500k,nhan 500k,lua_dao,ld_khac,1.0,6,rut_tu_du_lieu
+nhan 50k,nhan 50k,lua_dao,ld_khac,1.0,6,rut_tu_du_lieu
+oi ban,oi ban,lua_dao,ld_khac,1.0,70,rut_tu_du_lieu
+oi ho,oi ho,lua_dao,ld_khac,1.0,10,rut_tu_du_lieu
+quan tâm,quan tam,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+rẻ,re,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+tâm gói,tam goi,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+"tháng, liên",thang lien,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+thanh toán trước,thanh toan truoc,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+Thuê,thue,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+"tờ, liên",to lien,lua_dao,ld_khac,1.0,36,rut_tu_du_lieu
+"triệu, nhắn",trieu nhan,lua_dao,ld_khac,1.0,26,rut_tu_du_lieu
+triệu/tháng,trieu thang,lua_dao,ld_khac,1.0,8,rut_tu_du_lieu
+trợ lấy,tro lay,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+vay sinh,vay sinh,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+viên lãi,vien lai,lua_dao,ld_khac,1.0,35,rut_tu_du_lieu
+bạn quan,ban quan,lua_dao,ld_khac,0.972,36,rut_tu_du_lieu
+toán trước,toan truoc,lua_dao,ld_khac,0.947,38,rut_tu_du_lieu
+6 số,6 so,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+b đọc,b doc,lua_dao,ld_otp,1.0,7,rut_tu_du_lieu
+bạn có,ban co,lua_dao,ld_otp,1.0,75,rut_tu_du_lieu
+bạn đọc,ban doc,lua_dao,ld_otp,1.0,71,rut_tu_du_lieu
+ban gui,ban gui,lua_dao,ld_otp,1.0,35,rut_tu_du_lieu
+bạn vừa,ban vua,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+bảo vệ,bao ve,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+bay,bay,lua_dao,ld_otp,1.0,198,rut_tu_du_lieu
+cấp cho,cap cho,lua_dao,ld_otp,1.0,78,rut_tu_du_lieu
+cau ban,cau ban,lua_dao,ld_otp,1.0,35,rut_tu_du_lieu
+cho nhân,cho nhan,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+có đăng,co dang,lua_dao,ld_otp,1.0,75,rut_tu_du_lieu
+dc mã,dc ma,lua_dao,ld_otp,1.0,8,rut_tu_du_lieu
+để bảo,de bao,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+de minh,de minh,lua_dao,ld_otp,1.0,107,rut_tu_du_lieu
+để mk,de mk,lua_dao,ld_otp,1.0,8,rut_tu_du_lieu
+đến số,den so,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+dịch,dich,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+đọc cho,doc cho,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+đọc giúp,doc giup,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+được mã,duoc ma,lua_dao,ld_otp,1.0,31,rut_tu_du_lieu
+game,game,lua_dao,ld_otp,1.0,74,rut_tu_du_lieu
+giúp mã,giup ma,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+gồm,gom,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+gui gap,gui gap,lua_dao,ld_otp,1.0,8,rut_tu_du_lieu
+gui lai,gui lai,lua_dao,ld_otp,1.0,75,rut_tu_du_lieu
+Gửi mình,gui minh,lua_dao,ld_otp,1.0,35,rut_tu_du_lieu
+gửi về,gui ve,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+hang,hang,lua_dao,ld_otp,1.0,187,rut_tu_du_lieu
+hoàn,hoan,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+huỷ,huy,lua_dao,ld_otp,1.0,78,rut_tu_du_lieu
+khau,khau,lua_dao,ld_otp,1.0,112,rut_tu_du_lieu
+khoản nha,khoan nha,lua_dao,ld_otp,1.0,7,rut_tu_du_lieu
+"lạ, gửi",la gui,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+là nhân,la nhan,lua_dao,ld_otp,1.0,38,rut_tu_du_lieu
+lai mat,lai mat,lua_dao,ld_otp,1.0,38,rut_tu_du_lieu
+lòng cung,long cung,lua_dao,ld_otp,1.0,77,rut_tu_du_lieu
+mã OTP,ma otp,lua_dao,ld_otp,1.0,110,hoc_sinh_soan
+mã xác minh,ma xac minh,lua_dao,ld_otp,1.0,39,hoc_sinh_soan
+mã xác nhận,ma xac nhan,lua_dao,ld_otp,1.0,78,hoc_sinh_soan
+mật khẩu,mat khau,lua_dao,ld_otp,1.0,112,hoc_sinh_soan
+máy để,may de,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+mình để,minh de,lua_dao,ld_otp,1.0,33,rut_tu_du_lieu
+mình mã,minh ma,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+mình mật,minh mat,lua_dao,ld_otp,1.0,35,rut_tu_du_lieu
+"minh, vui",minh vui,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+mk de,mk de,lua_dao,ld_otp,1.0,6,rut_tu_du_lieu
+nâng,nang,lua_dao,ld_otp,1.0,75,rut_tu_du_lieu
+nhầm,nham,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+nhận cho,nhan cho,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+nhận dc,nhan dc,lua_dao,ld_otp,1.0,8,rut_tu_du_lieu
+nhắn đến,nhan den,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+nhận được,nhan duoc,lua_dao,ld_otp,1.0,30,rut_tu_du_lieu
+nhân viên,nhan vien,lua_dao,ld_otp,1.0,77,rut_tu_du_lieu
+nhận vừa,nhan vua,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+nhanh,nhanh,lua_dao,ld_otp,1.0,185,rut_tu_du_lieu
+ơi Mình là,oi minh la,lua_dao,ld_otp,1.0,13,rut_tu_du_lieu
+otp,otp,lua_dao,ld_otp,1.0,110,rut_tu_du_lieu
+"quà, bạn",qua ban,lua_dao,ld_otp,1.0,36,rut_tu_du_lieu
+số của,so cua,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+số vừa,so vua,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+tất,tat,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+thực tài,thuc tai,lua_dao,ld_otp,1.0,34,rut_tu_du_lieu
+tk,tk,lua_dao,ld_otp,1.0,19,rut_tu_du_lieu
+trợ để,tro de,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+trong hôm,trong hom,lua_dao,ld_otp,1.0,197,rut_tu_du_lieu
+về máy,ve may,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+vệ ngay,ve ngay,lua_dao,ld_otp,1.0,9,rut_tu_du_lieu
+viên hỗ,vien ho,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+viên ngân,vien ngan,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+vừa gửi,vua gui,lua_dao,ld_otp,1.0,78,rut_tu_du_lieu
+vừa nhắn,vua nhan,lua_dao,ld_otp,1.0,77,rut_tu_du_lieu
+vui lòng,vui long,lua_dao,ld_otp,1.0,112,rut_tu_du_lieu
+xac,xac,lua_dao,ld_otp,1.0,269,rut_tu_du_lieu
+xin mã,xin ma,lua_dao,ld_otp,1.0,39,rut_tu_du_lieu
+yeu,yeu,lua_dao,ld_otp,1.0,38,rut_tu_du_lieu
+mình là,minh la,lua_dao,ld_otp,0.951,41,rut_tu_du_lieu
+đọc mã,doc ma,lua_dao,ld_otp,0.0,0,hoc_sinh_soan
+150k gửi,150k gui,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+200k gấp,200k gap,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+2tr gấp,2tr gap,lua_dao,ld_the_cao,1.0,8,rut_tu_du_lieu
+2tr gửi,2tr gui,lua_dao,ld_the_cao,1.0,10,rut_tu_du_lieu
+500k gấp,500k gap,lua_dao,ld_the_cao,1.0,7,rut_tu_du_lieu
+500k gửi,500k gui,lua_dao,ld_the_cao,1.0,9,rut_tu_du_lieu
+50k gấp,50k gap,lua_dao,ld_the_cao,1.0,7,rut_tu_du_lieu
+50k gửi,50k gui,lua_dao,ld_the_cao,1.0,7,rut_tu_du_lieu
+700k gap,700k gap,lua_dao,ld_the_cao,1.0,9,rut_tu_du_lieu
+700k gửi,700k gui,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+anh cần,anh can,lua_dao,ld_the_cao,1.0,41,rut_tu_du_lieu
+anh trong,anh trong,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+cần thẻ,can the,lua_dao,ld_the_cao,1.0,41,rut_tu_du_lieu
+cào 1,cao 1,lua_dao,ld_the_cao,1.0,16,rut_tu_du_lieu
+cao 150k,cao 150k,lua_dao,ld_the_cao,1.0,8,rut_tu_du_lieu
+cào 200k,cao 200k,lua_dao,ld_the_cao,1.0,10,rut_tu_du_lieu
+cào 2tr,cao 2tr,lua_dao,ld_the_cao,1.0,13,rut_tu_du_lieu
+cào 3,cao 3,lua_dao,ld_the_cao,1.0,12,rut_tu_du_lieu
+cao 300,cao 300,lua_dao,ld_the_cao,1.0,14,rut_tu_du_lieu
+cao 5,cao 5,lua_dao,ld_the_cao,1.0,17,rut_tu_du_lieu
+cào 500k,cao 500k,lua_dao,ld_the_cao,1.0,12,rut_tu_du_lieu
+cào 50k,cao 50k,lua_dao,ld_the_cao,1.0,11,rut_tu_du_lieu
+cào 700k,cao 700k,lua_dao,ld_the_cao,1.0,12,rut_tu_du_lieu
+cào điện,cao dien,lua_dao,ld_the_cao,1.0,41,rut_tu_du_lieu
+chi the,chi the,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+cho anh,cho anh,lua_dao,ld_the_cao,1.0,41,rut_tu_du_lieu
+cho cô,cho co,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+chuyen lai,chuyen lai,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+cô gấp,co gap,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+day nha,day nha,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+đây nhé,day nhe,lua_dao,ld_the_cao,1.0,34,rut_tu_du_lieu
+em mua,em mua,lua_dao,ld_the_cao,1.0,125,rut_tu_du_lieu
+"gấp, em",gap em,lua_dao,ld_the_cao,1.0,41,rut_tu_du_lieu
+gấp nhé,gap nhe,lua_dao,ld_the_cao,1.0,39,rut_tu_du_lieu
+giup chi,giup chi,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+giúp thầy,giup thay,lua_dao,ld_the_cao,1.0,79,rut_tu_du_lieu
+gửi mã,gui ma,lua_dao,ld_the_cao,1.0,206,rut_tu_du_lieu
+lại ngay,lai ngay,lua_dao,ld_the_cao,1.0,10,rut_tu_du_lieu
+lai trong,lai trong,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+lat,lat,lua_dao,ld_the_cao,1.0,79,rut_tu_du_lieu
+ma qua,ma qua,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+mã số,ma so,lua_dao,ld_the_cao,1.0,125,rut_tu_du_lieu
+Mua giup,mua giup,lua_dao,ld_the_cao,1.0,84,rut_tu_du_lieu
+mua rồi,mua roi,lua_dao,ld_the_cao,1.0,40,rut_tu_du_lieu
+mua thẻ,mua the,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+"này, Em",nay em,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+nghin gui,nghin gui,lua_dao,ld_the_cao,1.0,10,rut_tu_du_lieu
+nhé trong,nhe trong,lua_dao,ld_the_cao,1.0,17,rut_tu_du_lieu
+ơi em,oi em,lua_dao,ld_the_cao,1.0,10,rut_tu_du_lieu
+qua day,qua day,lua_dao,ld_the_cao,1.0,84,rut_tu_du_lieu
+r gửi,r gui,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+rồi gửi,roi gui,lua_dao,ld_the_cao,1.0,77,rut_tu_du_lieu
+số qua,so qua,lua_dao,ld_the_cao,1.0,83,rut_tu_du_lieu
+số thẻ,so the,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+thầy đang,thay dang,lua_dao,ld_the_cao,1.0,79,rut_tu_du_lieu
+thầy thẻ,thay the,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+thẻ cào,the cao,lua_dao,ld_the_cao,1.0,167,rut_tu_du_lieu
+thẻ cho,the cho,lua_dao,ld_the_cao,1.0,42,rut_tu_du_lieu
+thoại 1,thoai 1,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+thoại 2tr,thoai 2tr,lua_dao,ld_the_cao,1.0,7,rut_tu_du_lieu
+thoại 300,thoai 300,lua_dao,ld_the_cao,1.0,6,rut_tu_du_lieu
+trieu gui,trieu gui,lua_dao,ld_the_cao,1.0,31,rut_tu_du_lieu
+triệu rồi,trieu roi,lua_dao,ld_the_cao,1.0,17,rut_tu_du_lieu
+zalo,zalo,lua_dao,ld_the_cao,1.0,118,rut_tu_du_lieu
+chi chuyen,chi chuyen,lua_dao,ld_the_cao,0.933,45,rut_tu_du_lieu
+"nghe nay, Mua",nghe nay mua,lua_dao,ld_the_cao,0.909,11,rut_tu_du_lieu
+nạp thẻ,nap the,lua_dao,ld_the_cao,0.0,0,hoc_sinh_soan
+"ân, vui",an vui,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+Bạn đc,ban dc,lua_dao,ld_thong_tin,1.0,9,rut_tu_du_lieu
+ban de,ban de,lua_dao,ld_thong_tin,1.0,72,rut_tu_du_lieu
+bạn được,ban duoc,lua_dao,ld_thong_tin,1.0,64,rut_tu_du_lieu
+bong du,bong du,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+can gui,can gui,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+cấp họ,cap ho,lua_dao,ld_thong_tin,1.0,75,rut_tu_du_lieu
+cccd,cccd,lua_dao,ld_thong_tin,1.0,188,rut_tu_du_lieu
+chi can,chi can,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+chọn,chon,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+Cung cấp,cung cap,lua_dao,ld_thong_tin,1.0,114,rut_tu_du_lieu
+để làm,de lam,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+để nhận,de nhan,lua_dao,ld_thong_tin,1.0,176,rut_tu_du_lieu
+dien thong,dien thong,lua_dao,ld_thong_tin,1.0,71,rut_tu_du_lieu
+đóng phí,dong phi,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+du hoc,du hoc,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+gấp nhaaaa,gap nhaaaa,lua_dao,ld_thong_tin,1.0,7,rut_tu_du_lieu
+gui anh,gui anh,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+gui ho,gui ho,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+hai mặt,hai mat,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+ho so,ho so,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+họ tên,ho ten,lua_dao,ld_thong_tin,1.0,113,rut_tu_du_lieu
+Hỗ trợ,ho tro,lua_dao,ld_thong_tin,1.0,148,rut_tu_du_lieu
+hoc bong,hoc bong,lua_dao,ld_thong_tin,1.0,89,rut_tu_du_lieu
+hoc toan,hoc toan,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+khoản tại,khoan tai,lua_dao,ld_thong_tin,1.0,33,rut_tu_du_lieu
+khuyến,khuyen,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+ky giup,ky giup,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+làm thủ,lam thu,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+mã o,ma o,lua_dao,ld_thong_tin,1.0,6,rut_tu_du_lieu
+mặt gửi,mat gui,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+minh dang,minh dang,lua_dao,ld_thong_tin,1.0,34,rut_tu_du_lieu
+này bạn,nay ban,lua_dao,ld_thong_tin,1.0,39,rut_tu_du_lieu
+này Điền,nay dien,lua_dao,ld_thong_tin,1.0,6,rut_tu_du_lieu
+nè bạn,ne ban,lua_dao,ld_thong_tin,1.0,21,rut_tu_du_lieu
+ngày sinh,ngay sinh,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+nhận hỗ,nhan ho,lua_dao,ld_thong_tin,1.0,36,rut_tu_du_lieu
+nhận tiền,nhan tien,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+o t,o t,lua_dao,ld_thong_tin,1.0,6,rut_tu_du_lieu
+ơi Cung,oi cung,lua_dao,ld_thong_tin,1.0,20,rut_tu_du_lieu
+ơi Điền,oi dien,lua_dao,ld_thong_tin,1.0,16,rut_tu_du_lieu
+p,p,lua_dao,ld_thong_tin,1.0,6,rut_tu_du_lieu
+"phan, chi",phan chi,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+phi ho,phi ho,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+"sinh, số",sinh so,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+sơ 3,so 3,lua_dao,ld_thong_tin,1.0,10,rut_tu_du_lieu
+sơ 500k,so 500k,lua_dao,ld_thong_tin,1.0,11,rut_tu_du_lieu
+sơ 700k,so 700k,lua_dao,ld_thong_tin,1.0,7,rut_tu_du_lieu
+số tài,so tai,lua_dao,ld_thong_tin,1.0,33,rut_tu_du_lieu
+suất,suat,lua_dao,ld_thong_tin,1.0,72,rut_tu_du_lieu
+"tên, ngày",ten ngay,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+"ten, so",ten so,lua_dao,ld_thong_tin,1.0,76,rut_tu_du_lieu
+thong tin,thong tin,lua_dao,ld_thong_tin,1.0,72,rut_tu_du_lieu
+tiền hỗ,tien ho,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+tin cá,tin ca,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+toan phan,toan phan,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+tri,tri,lua_dao,ld_thong_tin,1.0,73,rut_tu_du_lieu
+trợ từ,tro tu,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+từ quỹ,tu quy,lua_dao,ld_thong_tin,1.0,37,rut_tu_du_lieu
+tục,tuc,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+va,va,lua_dao,ld_thong_tin,1.0,148,rut_tu_du_lieu
+"vay, chụp",vay chup,lua_dao,ld_thong_tin,1.0,38,rut_tu_du_lieu
+căn cước,can cuoc,lua_dao,ld_thong_tin,0.0,0,hoc_sinh_soan
+thông tin cá nhân,thong tin ca nhan,lua_dao,ld_thong_tin,0.0,0,hoc_sinh_soan
+16,16,lua_dao,ld_trung_thuong,1.0,22,rut_tu_du_lieu
+bạn đã,ban da,lua_dao,ld_trung_thuong,1.0,32,rut_tu_du_lieu
+bạn trúng,ban trung,lua_dao,ld_trung_thuong,1.0,31,rut_tu_du_lieu
+bang,bang,lua_dao,ld_trung_thuong,1.0,24,rut_tu_du_lieu
+da trung,da trung,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+"điện, liên",dien lien,lua_dao,ld_trung_thuong,1.0,6,rut_tu_du_lieu
+"điện, nhận",dien nhan,lua_dao,ld_trung_thuong,1.0,6,rut_tu_du_lieu
+iPhone,iphone,lua_dao,ld_trung_thuong,1.0,22,rut_tu_du_lieu
+kim,kim,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+kim cương,kim cuong,lua_dao,ld_trung_thuong,1.0,35,hoc_sinh_soan
+laptop,laptop,lua_dao,ld_trung_thuong,1.0,14,rut_tu_du_lieu
+long dien,long dien,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+máy điện,may dien,lua_dao,ld_trung_thuong,1.0,19,rut_tu_du_lieu
+mien,mien,lua_dao,ld_trung_thuong,1.0,70,rut_tu_du_lieu
+miễn phí,mien phi,lua_dao,ld_trung_thuong,1.0,70,hoc_sinh_soan
+mừng bạn,mung ban,lua_dao,ld_trung_thuong,1.0,32,rut_tu_du_lieu
+mừng! Số,mung so,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+này học sinh,nay hoc sinh,lua_dao,ld_trung_thuong,1.0,8,rut_tu_du_lieu
+"này, quà",nay qua,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+ngay ngay,ngay ngay,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+nghe xịn,nghe xin,lua_dao,ld_trung_thuong,1.0,24,rut_tu_du_lieu
+nhaaaan qua,nhaaaan qua,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+nhận quà,nhan qua,lua_dao,ld_trung_thuong,1.0,138,rut_tu_du_lieu
+nhận tại,nhan tai,lua_dao,ld_trung_thuong,1.0,34,rut_tu_du_lieu
+nhan trong,nhan trong,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+ơi Học sinh,oi hoc sinh,lua_dao,ld_trung_thuong,1.0,8,rut_tu_du_lieu
+ơi quà,oi qua,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+"phí, bấm",phi bam,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+quà gấp,qua gap,lua_dao,ld_trung_thuong,1.0,6,rut_tu_du_lieu
+quà tri ân,qua tri an,lua_dao,ld_trung_thuong,1.0,73,hoc_sinh_soan
+quà trong,qua trong,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+sinh trúng,sinh trung,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+sinh viên,sinh vien,lua_dao,ld_trung_thuong,1.0,70,rut_tu_du_lieu
+tai nghe,tai nghe,lua_dao,ld_trung_thuong,1.0,24,rut_tu_du_lieu
+Tang,tang,lua_dao,ld_trung_thuong,1.0,70,rut_tu_du_lieu
+thuong hoc,thuong hoc,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+thuong may,thuong may,lua_dao,ld_trung_thuong,1.0,12,rut_tu_du_lieu
+thuong tai,thuong tai,lua_dao,ld_trung_thuong,1.0,16,rut_tu_du_lieu
+thưởng xe,thuong xe,lua_dao,ld_trung_thuong,1.0,10,rut_tu_du_lieu
+tin tai,tin tai,lua_dao,ld_trung_thuong,1.0,35,rut_tu_du_lieu
+triệu! bấm,trieu bam,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+trúng xe,trung xe,lua_dao,ld_trung_thuong,1.0,6,rut_tu_du_lieu
+viên: máy,vien may,lua_dao,ld_trung_thuong,1.0,9,rut_tu_du_lieu
+voucher,voucher,lua_dao,ld_trung_thuong,1.0,22,rut_tu_du_lieu
+xe máy,xe may,lua_dao,ld_trung_thuong,1.0,20,rut_tu_du_lieu
+xin! bam,xin bam,lua_dao,ld_trung_thuong,1.0,9,rut_tu_du_lieu
+"xịn, liên",xin lien,lua_dao,ld_trung_thuong,1.0,7,rut_tu_du_lieu
+nhaaaan,nhaaaan,lua_dao,ld_trung_thuong,0.923,13,rut_tu_du_lieu
+trong,trong,lua_dao,ld_trung_thuong,0.901,253,rut_tu_du_lieu
+trúng thưởng,trung thuong,lua_dao,ld_trung_thuong,0.7,100,hoc_sinh_soan
+quay thưởng,quay thuong,lua_dao,ld_trung_thuong,0.0,0,hoc_sinh_soan
+10,10,lua_dao,ld_viec_lam,1.0,49,rut_tu_du_lieu
+"200k, nhắn",200k nhan,lua_dao,ld_viec_lam,1.0,9,rut_tu_du_lieu
+500k ngay,500k ngay,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+500k nhận,500k nhan,lua_dao,ld_viec_lam,1.0,6,rut_tu_du_lieu
+"50k, lien",50k lien,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+alo Tuyển,alo tuyen,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+anh hoc,anh hoc,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+cần điện,can dien,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+"cao, khong",cao khong,lua_dao,ld_viec_lam,1.0,27,rut_tu_du_lieu
+chắc,chac,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+chot don,chot don,lua_dao,ld_viec_lam,1.0,70,rut_tu_du_lieu
+Cơ hội,co hoi,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+cộng tác viên,cong tac vien,lua_dao,ld_viec_lam,1.0,35,hoc_sinh_soan
+ctv,ctv,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+doi sau,doi sau,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+"don, hoa",don hoa,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+don tai,don tai,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+động lãi,dong lai,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+gấp đôi,gap doi,lua_dao,ld_viec_lam,1.0,70,rut_tu_du_lieu
+hoa hong,hoa hong,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+hội thu,hoi thu,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+hong cao,hong cao,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+ib,ib,lua_dao,ld_viec_lam,1.0,106,rut_tu_du_lieu
+k can,k can,lua_dao,ld_viec_lam,1.0,11,rut_tu_du_lieu
+khong can,khong can,lua_dao,ld_viec_lam,1.0,85,rut_tu_du_lieu
+kiếm tiền,kiem tien,lua_dao,ld_viec_lam,1.0,34,rut_tu_du_lieu
+kinh,kinh,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+lai gap,lai gap,lua_dao,ld_viec_lam,1.0,44,rut_tu_du_lieu
+lãi suất,lai suat,lua_dao,ld_viec_lam,1.0,35,hoc_sinh_soan
+lam tai,lam tai,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+mau anh,mau anh,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+nap,nap,lua_dao,ld_viec_lam,1.0,70,rut_tu_du_lieu
+"nay, Kiem",nay kiem,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+"này, tuyển",nay tuyen,lua_dao,ld_viec_lam,1.0,14,rut_tu_du_lieu
+ngày 2tr,ngay 2tr,lua_dao,ld_viec_lam,1.0,6,rut_tu_du_lieu
+ngày 500k,ngay 500k,lua_dao,ld_viec_lam,1.0,6,rut_tu_du_lieu
+nghiem,nghiem,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+nghìn nhận,nghin nhan,lua_dao,ld_viec_lam,1.0,9,rut_tu_du_lieu
+nhận lại,nhan lai,lua_dao,ld_viec_lam,1.0,33,rut_tu_du_lieu
+nhiệm vụ,nhiem vu,lua_dao,ld_viec_lam,1.0,35,hoc_sinh_soan
+oi cong,oi cong,lua_dao,ld_viec_lam,1.0,15,rut_tu_du_lieu
+ơi kiếm,oi kiem,lua_dao,ld_viec_lam,1.0,9,rut_tu_du_lieu
+ơi nhiệm,oi nhiem,lua_dao,ld_viec_lam,1.0,15,rut_tu_du_lieu
+oi Tuyen,oi tuyen,lua_dao,ld_viec_lam,1.0,21,rut_tu_du_lieu
+online,online,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+"phut, lam",phut lam,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+rút,rut,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+"sinh, dong",sinh dong,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+so 200k,so 200k,lua_dao,ld_viec_lam,1.0,6,rut_tu_du_lieu
+so 2tr,so 2tr,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+sơ 5,so 5,lua_dao,ld_viec_lam,1.0,7,rut_tu_du_lieu
+so 50k,so 50k,lua_dao,ld_viec_lam,1.0,14,rut_tu_du_lieu
+tac,tac,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+tai nha,tai nha,lua_dao,ld_viec_lam,1.0,34,rut_tu_du_lieu
+thắng mỗi,thang moi,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+thụ động,thu dong,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+"trieu, lien",trieu lien,lua_dao,ld_viec_lam,1.0,19,rut_tu_du_lieu
+triệu/ngày,trieu ngay,lua_dao,ld_viec_lam,1.0,10,rut_tu_du_lieu
+tuyen mau,tuyen mau,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+vien chot,vien chot,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+vu,vu,lua_dao,ld_viec_lam,1.0,35,rut_tu_du_lieu
+làm tại nhà,lam tai nha,lua_dao,ld_viec_lam,0.0,0,hoc_sinh_soan
+lương cao,luong cao,lua_dao,ld_viec_lam,0.0,0,hoc_sinh_soan
+việc nhẹ lương cao,viec nhe luong cao,lua_dao,ld_viec_lam,0.0,0,hoc_sinh_soan
