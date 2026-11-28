@@ -1,0 +1,6 @@
+[
+  "tests/test_basic.py::test_llm_json",
+  "tests/test_basic.py::test_pii",
+  "tests/test_basic.py::test_pipeline",
+  "tests/test_basic.py::test_privacy_stats"
+]

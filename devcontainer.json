@@ -1,0 +1,8 @@
+{
+  "name": "EduShield - máy chủ thống kê trên GitHub Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": { "ghcr.io/devcontainers/features/github-cli:1": {} },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "forwardPorts": [8765],
+  "portsAttributes": { "8765": { "label": "EduShield thống kê", "onAutoForward": "silent" } }
+}
