@@ -1,0 +1,8 @@
+,precision,precision,recall,recall,f1,f1
+,mean,std,mean,std,mean,std
+lop,,,,,,
+bao_dong_gia,,,,,0.108,0.088
+bat_nat,0.863,0.093,0.848,0.197,0.848,0.138
+binh_thuong,0.847,0.125,0.892,0.088,0.866,0.095
+lua_dao,0.986,0.018,0.913,0.121,0.944,0.068
+macro avg,0.899,0.072,0.884,0.089,0.886,0.084

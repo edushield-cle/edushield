@@ -1,0 +1,5 @@
+﻿mo_hinh,tap_do,so_tin,macro_f1,bao_nham,bat_dung,nguong
+A. Chỉ bộ 10.000 tin cũ,Tập kiểm tra cũ,1556,0.964,0.048,0.97,"{""p_warn"": 0.6, ""p_warn_with_signal"": 0.4, ""sev_signal"": 3}"
+A. Chỉ bộ 10.000 tin cũ,Tập kiểm tra độc lập (bổ sung),810,0.845,0.113,0.811,"{""p_warn"": 0.6, ""p_warn_with_signal"": 0.4, ""sev_signal"": 3}"
+B. Bộ cũ + bộ bổ sung từ nguồn tin cậy,Tập kiểm tra cũ,1556,0.97,0.048,0.987,"{""p_warn"": 0.6, ""p_warn_with_signal"": 0.4, ""sev_signal"": 3}"
+B. Bộ cũ + bộ bổ sung từ nguồn tin cậy,Tập kiểm tra độc lập (bổ sung),810,0.867,0.167,0.912,"{""p_warn"": 0.6, ""p_warn_with_signal"": 0.4, ""sev_signal"": 3}"

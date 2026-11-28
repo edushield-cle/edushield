@@ -1,0 +1,33 @@
+﻿cau_hinh,tap_do,macro_f1,bao_nham,bat_dung,ti_le_canh_bao_viet_tay
+"A. v1.6 (3 nhãn, dữ liệu cũ)",kiem_dinh,0.951,0.023,0.933,
+"A. v1.6 (3 nhãn, dữ liệu cũ)",test_cu,0.97,0.048,0.987,
+"A. v1.6 (3 nhãn, dữ liệu cũ)",doc_lap_v16,0.867,0.167,0.912,
+"A. v1.6 (3 nhãn, dữ liệu cũ)",ngu_canh_doc_lap,0.513,0.489,0.991,
+"A. v1.6 (3 nhãn, dữ liệu cũ)",viet_tay_tuyen_truyen,,,,0.593
+"A. v1.6 (3 nhãn, dữ liệu cũ)",viet_tay_thuong_kho,,,,0.26
+"A. v1.6 (3 nhãn, dữ liệu cũ)",viet_tay_truc_tiep,,,,0.914
+"A. v1.6 (3 nhãn, dữ liệu cũ)",viet_tay_gia_canh_bao,,,,1.0
+"B. + dữ liệu ngữ cảnh, 3 nhãn",kiem_dinh,0.867,0.086,0.814,
+"B. + dữ liệu ngữ cảnh, 3 nhãn",test_cu,0.972,0.003,0.957,
+"B. + dữ liệu ngữ cảnh, 3 nhãn",doc_lap_v16,0.857,0.0,0.767,
+"B. + dữ liệu ngữ cảnh, 3 nhãn",ngu_canh_doc_lap,0.907,0.025,0.861,
+"B. + dữ liệu ngữ cảnh, 3 nhãn",viet_tay_tuyen_truyen,,,,0.065
+"B. + dữ liệu ngữ cảnh, 3 nhãn",viet_tay_thuong_kho,,,,0.18
+"B. + dữ liệu ngữ cảnh, 3 nhãn",viet_tay_truc_tiep,,,,0.857
+"B. + dữ liệu ngữ cảnh, 3 nhãn",viet_tay_gia_canh_bao,,,,0.667
+C. + nhãn tuyên truyền (4 nhãn),kiem_dinh,0.901,0.04,0.806,
+C. + nhãn tuyên truyền (4 nhãn),test_cu,0.979,0.005,0.925,
+C. + nhãn tuyên truyền (4 nhãn),doc_lap_v16,0.894,0.0,0.786,
+C. + nhãn tuyên truyền (4 nhãn),ngu_canh_doc_lap,0.912,0.027,0.806,
+C. + nhãn tuyên truyền (4 nhãn),viet_tay_tuyen_truyen,,,,0.028
+C. + nhãn tuyên truyền (4 nhãn),viet_tay_thuong_kho,,,,0.12
+C. + nhãn tuyên truyền (4 nhãn),viet_tay_truc_tiep,,,,0.829
+C. + nhãn tuyên truyền (4 nhãn),viet_tay_gia_canh_bao,,,,0.8
+D. + đặc trưng khung ngữ cảnh,kiem_dinh,0.916,0.04,0.866,
+D. + đặc trưng khung ngữ cảnh,test_cu,0.974,0.025,0.967,
+D. + đặc trưng khung ngữ cảnh,doc_lap_v16,0.907,0.075,0.893,
+D. + đặc trưng khung ngữ cảnh,ngu_canh_doc_lap,0.913,0.032,0.887,
+D. + đặc trưng khung ngữ cảnh,viet_tay_tuyen_truyen,,,,0.037
+D. + đặc trưng khung ngữ cảnh,viet_tay_thuong_kho,,,,0.14
+D. + đặc trưng khung ngữ cảnh,viet_tay_truc_tiep,,,,0.914
+D. + đặc trưng khung ngữ cảnh,viet_tay_gia_canh_bao,,,,0.8

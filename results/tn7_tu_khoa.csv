@@ -1,0 +1,5 @@
+﻿phuong_an,macro_f1,bao_nham,bat_dung,nguong_chon_tren_val
+A1. Chỉ cụm từ rút tự động từ dữ liệu,0.775,0.0,0.63,ngưỡng điểm 9.75
+A2. Chỉ cụm từ học sinh tự soạn,0.363,0.0,0.132,ngưỡng điểm 2.5
+B. Mô hình học từ câu (hiện tại),0.964,0.048,0.97,"{'p_warn': 0.6, 'p_warn_with_signal': 0.4}"
+C. Kết hợp B + cụm từ,0.964,0.046,0.961,"{'p_warn': 0.8, 'p_warn_with_signal': 0.6}"

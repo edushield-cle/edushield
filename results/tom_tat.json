@@ -1,0 +1,41 @@
+{
+ "graph": {
+  "campaign_precision": 0.882,
+  "campaign_recall": 1.0,
+  "campaigns_found": 5,
+  "campaigns_true": 5,
+  "mob_precision": 1.0,
+  "mob_recall": 1.0,
+  "summary": {
+   "so_bao_cao": 274,
+   "so_tai_khoan_an_danh": 120,
+   "so_chi_dau": 22,
+   "so_chien_dich": 5
+  }
+ },
+ "pii": {
+  "tong_pii": 940,
+  "bi_lot": 0,
+  "ty_le_che": 1.0
+ },
+ "ablation": [
+  {
+   "phuong_an": "Chỉ văn bản",
+   "precision": 1.0,
+   "recall": 0.113,
+   "f1": 0.202
+  },
+  {
+   "phuong_an": "Chỉ đồ thị",
+   "precision": 1.0,
+   "recall": 0.762,
+   "f1": 0.865
+  },
+  {
+   "phuong_an": "Kết hợp (EduShield)",
+   "precision": 1.0,
+   "recall": 0.795,
+   "f1": 0.886
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+phuong_an,precision,recall,f1
+Chỉ văn bản,1.0,0.113,0.202
+Chỉ đồ thị,1.0,0.762,0.865
+Kết hợp (EduShield),1.0,0.795,0.886

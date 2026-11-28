@@ -1,0 +1,13 @@
+nhom,so_tin,bi_nhac,ti_le_phan_tram
+bat_nat,502,498,99.2
+binh_thuong,481,15,3.1
+bt:bt_ban_be,75,0,0.0
+bt:bt_canh_bao_dung,60,14,23.3
+bt:bt_dua_gion,124,0,0.0
+bt:bt_gia_dinh,50,0,0.0
+bt:bt_hoc_tap,82,1,1.2
+bt:bt_tai_chinh_hop_le,90,0,0.0
+lua_dao,186,186,100.0
+viet_tay:bat_nat,17,14,82.4
+viet_tay:binh_thuong,158,9,5.7
+viet_tay:lua_dao,33,30,90.9

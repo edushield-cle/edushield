@@ -1,0 +1,66 @@
+== Mô hình văn bản 3 nhãn (train -> test mẫu câu mới) ==
+val macro-F1 0.859 {'binh_thuong': 0.785, 'bat_nat': 0.942, 'lua_dao': 0.852}
+test macro-F1 0.915 {'binh_thuong': 0.88, 'bat_nat': 0.924, 'lua_dao': 0.942}
+Ma trận nhầm lẫn (hàng=thật, cột=đoán): ['binh_thuong', 'bat_nat', 'lua_dao']
+[[506  72  57]
+ [  9 491   0]
+ [  0   0 463]]
+
+== Theo loại chi tiết trên test (tỉ lệ đoán đúng nhãn 3 lớp) ==
+                      mean  count
+category                         
+bt_canh_bao_dung     0.300     60
+bt_thong_bao_truong  0.477     86
+bt_dua_gion          0.672    125
+bn_phat_tan          0.922     90
+bn_co_lap            0.975     81
+bt_hoc_tap           0.991    111
+bn_khac              1.000     39
+bn_de_doa            1.000     82
+bt_ban_be            1.000     95
+bn_tran_lot          1.000     90
+bn_tin_don           1.000     50
+bn_lang_ma           1.000     68
+bt_gia_dinh          1.000     58
+bt_tai_chinh_hop_le  1.000    100
+ld_chuyen_tien       1.000     72
+ld_de_doa            1.000     37
+ld_khac              1.000     36
+ld_otp               1.000     39
+ld_the_cao           1.000     42
+ld_thong_tin         1.000     37
+ld_trung_thuong      1.000     70
+ld_viec_lam          1.000     70
+link_nguy_hiem       1.000     60
+
+== Mẫu khó vs thường ==
+         mean  count
+do_kho              
+kho     0.769    359
+thuong  0.956   1239
+Báo động giả (tin bình thường bị đoán là nguy cơ): 0.203
+  - riêng nhóm đùa giỡn: 0.328 | cảnh báo đúng: 0.7 | tài chính hợp lệ: 0.0
+
+== 16 mã chi tiết bằng quy tắc: tỉ lệ mẫu test có đúng mã thật trong tập mã được gán ==
+      loai_that  so_mau  ty_le_co_dung_ma
+      bn_co_lap      81             0.000
+        bn_khac      39             0.000
+        ld_khac      36             0.000
+      ld_de_doa      37             0.108
+     bn_lang_ma      68             0.382
+    bn_tran_lot      90             0.467
+    bn_phat_tan      90             0.500
+    ld_viec_lam      70             0.500
+      bn_de_doa      82             0.561
+   ld_thong_tin      37             0.946
+         ld_otp      39             0.974
+     bn_tin_don      50             1.000
+ ld_chuyen_tien      72             1.000
+     ld_the_cao      42             1.000
+ld_trung_thuong      70             1.000
+ link_nguy_hiem      60             1.000
+(link_nguy_hiem ở đây chỉ tính khi có link; ld_khac/bn_khac không có quy tắc riêng)
+
+== Đánh giá chéo 5 lần, nhóm theo template_id ==
+macro-F1 0.929 ± 0.022 | báo động giả 0.120 ± 0.054 | bắt được nguy cơ (bất kể loại) 0.959 ± 0.014
+từng lần macro-F1: [0.915, 0.953, 0.908, 0.958, 0.911]
