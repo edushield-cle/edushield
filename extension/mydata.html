@@ -1,0 +1,20 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><title>Dữ liệu của tôi - EduShield</title>
+<style>body{font:16px/1.55 system-ui,-apple-system,'Segoe UI',sans-serif;max-width:680px;margin:24px auto;padding:0 14px;color:#1f2328}@media(prefers-color-scheme:dark){body{background:#0d1117;color:#e6edf3}pre,.c{background:#161b22!important;border-color:#30363d!important}}
+.c{border:1px solid #d7dee6;border-radius:14px;padding:14px;margin:12px 0;background:#fff;box-shadow:0 1px 3px rgba(16,24,40,.06)}button{font:inherit;padding:8px 14px;border:0;border-radius:8px;background:#1f6feb;color:#fff;margin:4px 6px 4px 0}button.d{background:#cf222e}pre{white-space:pre-wrap;background:#f6f8fa;padding:8px;border-radius:8px;font-size:13px}p b,li b,label b,.left b,.small b,small b{font-weight:600;background:linear-gradient(transparent 58%,#ffe58a 58%);border-radius:2px;padding:0 1px;color:inherit}
+b.rd{color:#d1242f!important;background:none!important;font-weight:700}
+@media(prefers-color-scheme:dark){p b,li b,label b,.left b,.small b,small b{background:linear-gradient(transparent 58%,#5c4a00 58%)}b.rd{color:#ff7b72!important}}
+.bg{position:fixed;inset:0;overflow:hidden;z-index:-1;pointer-events:none}
+.bg span{position:absolute;font-size:34px;opacity:.55;animation:fl 9s ease-in-out infinite}
+.bg span:nth-child(1){left:6%;top:14%}.bg span:nth-child(2){right:8%;top:22%;animation-delay:-2s;font-size:42px}.bg span:nth-child(3){left:12%;bottom:12%;animation-delay:-4s}
+.bg span:nth-child(4){right:14%;bottom:16%;animation-delay:-6s;font-size:40px}.bg span:nth-child(5){left:46%;top:4%;animation-delay:-3s;font-size:26px}.bg span:nth-child(6){right:42%;bottom:4%;animation-delay:-5s;font-size:28px}
+@keyframes fl{0%,100%{transform:translateY(0) rotate(-4deg)}50%{transform:translateY(-18px) rotate(5deg)}}
+@media(prefers-reduced-motion:reduce){.bg span{animation:none}}
+body{background:radial-gradient(circle at 8% 0,#d3e3ff 0,transparent 40%),radial-gradient(circle at 96% 12%,#d9f3f7 0,transparent 36%),#f4f7fb;min-height:100vh}@media(prefers-color-scheme:dark){body{background:#0d1117}}h1{background:linear-gradient(90deg,#1f6feb,#5b4bdb);-webkit-background-clip:text;background-clip:text;color:transparent}</style>
+<div class="bg"><span>🗂️</span><span>🔒</span><span>🛡️</span><span>✨</span><span>👁️</span><span>🧹</span></div>
+<h1>🛡️ Dữ liệu của tôi</h1>
+<p>Đây là <b class="rd">toàn bộ</b> những gì EduShield giữ trên trình duyệt này. <b class="rd">Không có nội dung tin nhắn.</b></p>
+<div class="c"><b>📌 Trạng thái</b><div id="st"></div></div>
+<div class="c"><b>🗓️ Ghi nhận theo ngày (chỉ mã loại nguy cơ)</b><pre id="daily"></pre><small>Mã của từng tin được băm bằng muối riêng của máy bạn, chỉ để không đếm trùng.</small><br><button class="d" id="delDaily">🧹 Xoá ghi nhận theo ngày</button></div>
+<div class="c"><b>📤 Đóng góp thống kê ẩn danh</b><div id="share"></div><button id="stopShare">⏹️ Tắt đóng góp</button></div>
+<div class="c"><b>🗑️ Xoá tất cả và rút lại đồng ý</b><p class="small">Tiện ích sẽ ngừng hoạt động cho đến khi bạn đồng ý lại.</p><button class="d" id="wipe">🗑️ Xoá tất cả</button></div>
+<script src="mydata.js"></script><script src="deco.js"></script></html>

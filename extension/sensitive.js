@@ -1,0 +1,2 @@
+// Trang nhạy cảm (ngân hàng, ví điện tử, email, dịch vụ công, trang đăng nhập): EduShield KHÔNG quét để tôn trọng riêng tư.
+globalThis.EDUSHIELD_SENSITIVE = /(^|\.)(vietcombank|techcombank|mbbank|bidv|agribank|vietinbank|vpbank|tpb|tpbank|acb|sacombank|vib|hdbank|shb|ocb|msb|seabank|eximbank|lpbank|namabank|bacabank|cake|timo|momo|zalopay|vnpay|shopeepay|paypal)\.|^(accounts\.google|mail\.google|outlook\.live|outlook\.office|login\.microsoftonline|login\.live|appleid\.apple|dichvucong\.gov|vneid\.gov)\.|(^|\.)(gov\.vn)$/i;

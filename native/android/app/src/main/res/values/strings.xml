@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduShield AI</string>
+    <string name="nl_label">EduShield: đọc thông báo tin nhắn</string>
+    <string name="a11y_label">EduShield: chế độ quét màn hình nâng cao</string>
+    <string name="a11y_desc">EduShield đọc chữ ĐANG HIỂN THỊ trong các ứng dụng chat bạn đã chọn (Zalo, Messenger…) để cảnh báo sớm lừa đảo và bắt nạt. Mọi phân tích diễn ra trên điện thoại; ứng dụng không có quyền Internet nên không thể gửi nội dung đi đâu; không lưu nội dung; bỏ qua ô mật khẩu. Bạn có thể tắt bất cứ lúc nào trong Cài đặt → Hỗ trợ tiếp cận.</string>
+    <string name="tile_label">Kiểm tra tin đã sao chép</string>
+</resources>

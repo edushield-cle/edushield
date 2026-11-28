@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>EduShield – Trang thử nghiệm</title>
+<link rel="stylesheet" href="ui.css">
+<style>
+  body{margin:0;background:#e9ebee;font-size:15px}
+  .app{max-width:680px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column;background:#fff;box-shadow:0 0 20px rgba(0,0,0,.08)}
+  .top{padding:14px 18px;color:#fff;display:flex;gap:10px;align-items:center}
+  .top b{font-size:17px;display:block}.top small{color:#dbe8ff}
+  .tip{margin:12px 14px 0;padding:10px 12px;border-radius:12px;background:#fff8e1;font-size:13.5px;line-height:1.45}
+  .msgs{flex:1;padding:14px;display:flex;flex-direction:column;gap:10px}
+  .mrow{display:flex;gap:8px;align-items:flex-end}.mrow.me{flex-direction:row-reverse}
+  .av{width:30px;height:30px;border-radius:50%;color:#fff;display:flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0}
+  .who{font-size:11.5px;color:#888;margin:0 0 2px 4px}
+  .bubble{background:#f0f2f5;border-radius:16px;padding:8px 12px;max-width:440px;line-height:1.4}
+  .me .bubble{background:#0084ff;color:#fff}
+  .bar{position:sticky;bottom:0;display:flex;gap:8px;padding:10px;border-top:1px solid #ddd;background:#fff}
+  .bar input{flex:1;border:1px solid #ccc;border-radius:18px;padding:9px 14px;font-size:15px}
+  .bar button{border:none;background:#1f6feb;color:#fff;border-radius:18px;padding:8px 14px;cursor:pointer}
+  .bar select{border:1px solid #ccc;border-radius:12px;padding:6px}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="top hdr" data-edushield-ignore><img src="icon48.png" alt="" width="34" height="34" style="background:#fff;border-radius:9px;padding:3px"><div><b>🧪 Trang thử nghiệm EduShield</b><small>Nhóm chat mô phỏng, không cần máy chủ, không phải tin thật</small></div></div>
+  <div class="tip" data-edushield-ignore>👉 Cuộn xuống từ từ: EduShield chỉ quét những tin <b class="rd">đang hiện trên màn hình</b>. Nút 🛡️ ở góc phải dưới cho biết số đoạn đã quét. Bạn cũng có thể gõ một tin rồi bấm <b>Gửi</b>: nếu tin có thể làm người khác tổn thương, giống lừa đảo hay là mã OTP, EduShield sẽ <b>nhắc trước khi gửi</b>.</div>
+  <div class="msgs" id="msgs"></div>
+  <div class="bar" data-edushield-ignore><select id="pick"><option value="">Tin mẫu…</option></select><input id="txt" placeholder="Gõ tin nhắn thử…"><button id="send">Gửi</button></div>
+</div>
+<script src="thu-nghiem.js"></script>
+<script src="model.js"></script>
+<script src="blocklist.js"></script>
+<script src="detector.js"></script>
+<script src="content.js"></script><script src="deco.js"></script>
+</body>
+</html>

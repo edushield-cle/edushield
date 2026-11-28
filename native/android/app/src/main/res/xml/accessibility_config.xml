@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Chỉ lắng nghe CÁC ỨNG DỤNG CHAT, MẠNG XÃ HỘI được liệt kê; không phải công cụ hỗ trợ người khuyết tật (isAccessibilityTool=false)
+     nên ứng dụng hiển thị màn hình công khai mục đích và xin đồng ý rõ ràng trước khi học sinh bật. -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowContentChanged|typeViewScrolled|typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagDefault"
+    android:notificationTimeout="800"
+    android:canRetrieveWindowContent="true"
+    android:isAccessibilityTool="false"
+    android:description="@string/a11y_desc"
+    android:packageNames="com.zing.zalo,com.facebook.orca,com.facebook.katana,com.facebook.lite,com.instagram.android,com.zhiliaoapp.musically,com.ss.android.ugc.trill,org.telegram.messenger,com.google.android.apps.messaging,com.samsung.android.messaging,com.discord" />

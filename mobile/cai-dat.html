@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1f6feb">
+<link rel="icon" href="icon-192.png">
+<title>Cài đặt EduShield AI</title>
+<style>
+:root{--b:#1f6feb;--bg:#f4f7fb;--c:#fff;--t:#1f2328;--m:#59636e;--ln:#d7dee6;--ok:#1a7f37}
+@media(prefers-color-scheme:dark){:root{--bg:#0d1117;--c:#161b22;--t:#e6edf3;--m:#9da7b3;--ln:#30363d;--ok:#3fb950}}
+*{box-sizing:border-box}body{margin:0;font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--t);background:var(--bg)}
+header{background:linear-gradient(135deg,#1f6feb,#0b4fc2);color:#fff;padding:22px 18px;text-align:center}
+header img{width:56px;height:56px;border-radius:14px;background:#fff;padding:5px}header h1{margin:8px 0 2px;font-size:1.35em}header p{margin:0;opacity:.92;font-size:.92em}
+main{max-width:680px;margin:0 auto;padding:14px}
+.card{background:var(--c);border:1px solid var(--ln);border-radius:16px;padding:16px;margin:14px 0;box-shadow:0 2px 10px rgba(31,111,235,.07)}
+h2{font-size:1.1em;margin:0 0 6px}h3{font-size:1em;margin:14px 0 4px}
+ol{margin:6px 0 6px 20px;padding:0}li{margin:6px 0}
+.btn{display:inline-block;background:var(--b);color:#fff;text-decoration:none;padding:12px 18px;border-radius:12px;font-weight:600;margin:6px 6px 6px 0}
+.btn.sec{background:transparent;color:var(--b);border:1px solid var(--b)}
+.tag{display:inline-block;font-size:.78em;background:rgba(31,111,235,.12);color:var(--b);padding:2px 9px;border-radius:99px;font-weight:600;vertical-align:middle}
+details{border:1px solid var(--ln);border-radius:12px;padding:8px 12px;margin:10px 0}summary{cursor:pointer;font-weight:600}
+.warn{background:rgba(255,196,0,.15);border-radius:12px;padding:10px 12px;margin:10px 0;font-size:.93em}
+.ok{background:rgba(26,127,55,.12);border-radius:12px;padding:10px 12px;margin:10px 0;font-size:.93em}
+small,.small{color:var(--m)}kbd{border:1px solid var(--ln);border-bottom-width:2px;border-radius:6px;padding:0 6px;background:var(--c);font-size:.9em}
+a{color:var(--b)}
+p b,li b,label b,.small b{font-weight:600;background:linear-gradient(transparent 58%,#ffe58a 58%);border-radius:2px;padding:0 1px;color:inherit}
+b.rd{color:#d1242f!important;background:none!important;font-weight:700}
+@media(prefers-color-scheme:dark){p b,li b,label b,.small b{background:linear-gradient(transparent 58%,#5c4a00 58%)}b.rd{color:#ff7b72!important}}
+header{position:relative;overflow:hidden;background:linear-gradient(135deg,#1f6feb 0%,#5b4bdb 55%,#0aa2c0 100%)!important}
+header:before,header:after{content:"";position:absolute;border-radius:50%;background:rgba(255,255,255,.13)}header:before{width:160px;height:160px;right:-40px;top:-70px}header:after{width:90px;height:90px;left:-20px;bottom:-50px}header>*{position:relative;z-index:1}
+body{background:radial-gradient(circle at 8% 10%,rgba(31,111,235,.10),transparent 36%),radial-gradient(circle at 95% 30%,rgba(10,162,192,.10),transparent 34%),radial-gradient(circle at 15% 95%,rgba(91,75,219,.09),transparent 40%),var(--bg);background-attachment:fixed}
+.card h2{display:flex;align-items:center;gap:8px}
+ol li::marker{color:var(--b);font-weight:700}
+</style>
+<style>@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}header img{animation:fl 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){header img{animation:none}}</style>
+</head>
+<body>
+<header><img src="icon-192.png" alt="EduShield"><h1>Cài EduShield AI trong 2 phút</h1><p>Bảo vệ bạn trước bắt nạt mạng và lừa đảo · không đọc lén tin nhắn</p></header>
+<main>
+
+<div class="ok"><b>Trước khi cài, bạn nên biết:</b> EduShield chỉ <b class="rd">cảnh báo</b>, bạn là người quyết định. Phân tích diễn ra <b>ngay trên máy bạn</b>, <b class="rd">không lưu và không gửi</b> nội dung tin nhắn. Gửi thống kê cho trường là <b>tuỳ chọn, tắt mặc định</b>.</div>
+
+<div class="card" id="phone">
+  <h2>📱 Cách 1 · Cài app trên điện thoại <span class="tag">khuyên dùng</span></h2>
+  <p class="small">Không cần cửa hàng ứng dụng. Cài như một biểu tượng trên màn hình chính.</p>
+  <a class="btn" href="./" id="openApp">Mở app EduShield</a>
+  <details id="d-android"><summary>Điện thoại Android (Chrome)</summary>
+    <ol><li>Mở trang này bằng <b>Chrome</b>, bấm <b>Mở app EduShield</b>.</li>
+    <li>Bấm nút <b>⋮</b> (ba chấm, góc trên bên phải).</li>
+    <li>Chọn <b>“Cài đặt ứng dụng”</b> hoặc <b>“Thêm vào màn hình chính”</b>, rồi bấm <b>Cài đặt</b>.</li>
+    <li>Mở biểu tượng EduShield vừa xuất hiện, đọc và tích <b>“Mình tự nguyện dùng”</b>, bấm <b>Bắt đầu</b>.</li></ol></details>
+  <details id="d-ios"><summary>iPhone / iPad (Safari)</summary>
+    <ol><li>Mở trang này bằng <b>Safari</b> (không dùng Chrome hay Zalo trên iPhone, vì không thêm được).</li>
+    <li>Bấm <b>Mở app EduShield</b>, rồi bấm nút <b>Chia sẻ</b> (hình vuông có mũi tên lên).</li>
+    <li>Kéo xuống chọn <b>“Thêm vào Màn hình chính”</b>, bấm <b>Thêm</b>.</li>
+    <li>Mở biểu tượng EduShield, tích đồng ý và bấm <b>Bắt đầu</b>.</li></ol></details>
+  <h3>Cách dùng nhanh</h3>
+  <ol><li>Nhận tin nhắn lạ làm bạn lo → <b>sao chép tin</b>, dán vào EduShield, bấm <b>Kiểm tra</b>.</li>
+  <li>Hoặc bấm <b>Chia sẻ</b> trên tin nhắn rồi chọn EduShield (nếu điện thoại hỗ trợ).</li>
+  <li>Thấy cảnh báo → đọc <b>lý do</b> và bấm <b>“Cần làm gì ngay?”</b>.</li></ol>
+</div>
+
+<div class="card" id="pc">
+  <h2>💻 Cách 2 · Cài tiện ích trên máy tính <span class="tag">Chrome / Edge</span></h2>
+  <p class="small">Tiện ích tự cảnh báo khi bạn lướt Facebook, Messenger, Zalo web, TikTok, Instagram, Discord. Chỉ quét phần <b>đang hiển thị trên màn hình</b>.</p>
+  <a class="btn" href="EduShield_Extension.zip" download>⬇️ Tải tiện ích (.zip)</a>
+  <ol>
+    <li><b>Giải nén</b> tệp vừa tải (chuột phải → Giải nén). Nhớ vị trí thư mục, <b class="rd">đừng xoá nó</b>.</li>
+    <li>Mở Chrome, gõ <kbd>chrome://extensions</kbd> vào thanh địa chỉ (Edge: <kbd>edge://extensions</kbd>).</li>
+    <li>Bật <b>Chế độ dành cho nhà phát triển</b> (công tắc góc phải).</li>
+    <li>Bấm <b>Tải tiện ích đã giải nén</b>, chọn thư mục vừa giải nén.</li>
+    <li>Màn hình chào hỏi hiện ra: đọc, tích <b>“Mình tự nguyện”</b>, bấm <b>Bắt đầu</b>.</li>
+    <li>Bấm biểu tượng <b>mảnh ghép 🧩</b> trên thanh công cụ → <b>ghim</b> EduShield để dễ mở.</li>
+  </ol>
+  <div class="warn">Chrome có thể nhắc “tắt tiện ích ở chế độ nhà phát triển” mỗi lần mở trình duyệt. Đây là bình thường với bản dùng thử; bấm đóng. Chrome trên điện thoại không hỗ trợ tiện ích, hãy dùng Cách 1.</div>
+</div>
+
+<div class="card">
+  <h2>🔒 Quyền riêng tư và an toàn</h2>
+  <ul>
+    <li>Chỉ cài từ <b class="rd">đường link hoặc mã QR do thầy cô/nhà trường chia sẻ</b>. Đừng cài từ nguồn lạ.</li>
+    <li>EduShield <b class="rd">không bao giờ</b> xin mật khẩu, mã OTP hay thông tin ngân hàng.</li>
+    <li>Nhà trường chỉ có thể thấy <b>số liệu tổng hợp</b> nếu bạn tự bấm “Gửi thống kê”. Không có nội dung, tên hay mã máy.</li>
+    <li>Nếu bạn dưới 16 tuổi, hãy hỏi cha mẹ trước khi bật gửi thống kê.</li>
+    <li>Cần giúp ngay? Gọi <b>111</b> (miễn phí, 24/7).</li>
+  </ul>
+  <a class="btn sec" href="chinh-sach.html">Chính sách quyền riêng tư</a>
+</div>
+
+<div class="card">
+  <h2>🗑️ Muốn gỡ cài đặt?</h2>
+  <p><b>App:</b> vào Cài đặt trong app → <b>Xoá toàn bộ</b>, rồi giữ biểu tượng trên màn hình chính → <b>Gỡ</b>.<br>
+  <b>Tiện ích:</b> <kbd>chrome://extensions</kbd> → EduShield → <b>Xoá</b>. Hoặc mở <b>Dữ liệu của tôi</b> trong tiện ích để xoá dữ liệu trước.</p>
+</div>
+
+<p class="small" style="text-align:center">EduShield AI là nguyên mẫu nghiên cứu. AI có thể sai.</p>
+</main>
+<script src="cai-dat.js"></script><script src="deco.js"></script>
+</body>
+</html>

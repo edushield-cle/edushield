@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "EduShield AI",
+  "version": "1.9.0",
+  "description": "Phòng vệ chủ động, cảnh báo sớm lừa đảo trực tuyến và bạo lực mạng cho học sinh. Phân tích ngay trên máy; có thực chiến giả lập.",
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "alarms",
+    "notifications",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "EduShield AI"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "sensitive.js",
+        "model.js",
+        "blocklist.js",
+        "detector.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

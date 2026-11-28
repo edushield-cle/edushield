@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1f6feb">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<title>EduShield AI</title>
+<style>
+:root{--b:#1f6feb;--bg:#f6f8fa;--c:#fff;--t:#1f2328;--m:#59636e;--ln:#d0d7de;--ok:#1a7f37;--w1:#9a6700;--w2:#bc4c00;--w3:#cf222e;--fs:16px}
+@media(prefers-color-scheme:dark){:root{--bg:#0d1117;--c:#161b22;--t:#e6edf3;--m:#9da7b3;--ln:#30363d;--ok:#3fb950}}
+body.large{--fs:19px}
+*{box-sizing:border-box}body{margin:0;font:var(--fs)/1.55 system-ui,sans-serif;color:var(--t);background:var(--bg);padding-bottom:68px}
+header{background:var(--b);color:#fff;padding:14px 16px}header h1{margin:0;font-size:1.15em}header p{margin:2px 0 0;font-size:.82em;opacity:.92}
+.stat{background:var(--c);border-bottom:1px solid var(--ln);color:var(--ok);font-size:.8em;font-weight:600;padding:6px 16px}
+main{padding:14px;max-width:640px;margin:auto}.card{background:var(--c);border:1px solid var(--ln);border-radius:14px;padding:14px;margin-bottom:12px}
+textarea,input[type=text],select{width:100%;font:inherit;padding:10px;border:1px solid var(--ln);border-radius:10px;background:var(--c);color:var(--t);margin:4px 0 10px}
+textarea{min-height:110px}
+button{font:inherit;border:0;border-radius:10px;padding:11px 15px;background:var(--b);color:#fff;margin:4px 6px 4px 0}
+button.sec{background:var(--ln);color:var(--t)}button.danger{background:var(--w3)}button.chip{background:transparent;color:var(--b);border:1px solid var(--b);padding:7px 11px;font-size:.88em}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--c);border-top:1px solid var(--ln)}
+nav button{flex:1;margin:0;border-radius:0;background:var(--c);color:var(--m);padding:14px 4px}nav button.on{color:var(--b);font-weight:700;border-top:3px solid var(--b)}
+.lv{border-left:6px solid var(--ok)}.lv.luu_y{border-color:var(--w1)}.lv.canh_bao{border-color:var(--w2)}.lv.khan_cap{border-color:var(--w3)}
+.small{font-size:.85em;color:var(--m)}.hide{display:none}pre{white-space:pre-wrap;background:var(--bg);padding:8px;border-radius:8px;font-size:.8em}
+.rowx{display:flex;justify-content:space-between;align-items:center;gap:8px}.pill{font-size:.75em;padding:3px 10px;border-radius:99px;font-weight:600;white-space:nowrap}.pill.on{background:rgba(26,127,55,.15);color:var(--ok)}.pill.off{background:var(--bg);color:var(--m)}button.full{width:100%;margin:6px 0;padding:13px;font-weight:600}.confirm{background:rgba(255,196,0,.14);border-radius:12px;padding:10px 12px;margin-top:8px}.msg{border-radius:10px;padding:9px 12px;background:rgba(26,127,55,.12);color:var(--ok);font-size:.9em}.msg.err{background:rgba(207,34,46,.12);color:var(--w3)}
+.todo{background:rgba(255,196,0,.14);border-radius:10px;padding:8px 12px;margin-top:8px}.todo ol{margin:4px 0 6px 18px;padding:0}
+.seg{display:flex;border:1px solid var(--ln);border-radius:10px;overflow:hidden;margin:6px 0}.seg button{flex:1;margin:0;border-radius:0;background:var(--c);color:var(--t);padding:9px 4px;border-right:1px solid var(--ln)}.seg button:last-child{border-right:none}.seg button.on{background:var(--b);color:#fff;font-weight:600}
+.ct{display:flex;align-items:center;gap:6px;flex-wrap:wrap;padding:8px 0;border-bottom:1px solid var(--ln)}.ct:last-child{border-bottom:none}.ct b{flex:1 1 100%}.ct a{border:1px solid var(--ln);border-radius:9px;padding:6px 10px;text-decoration:none}.ct button{padding:6px 10px;margin:0}
+.sup{background:rgba(31,111,235,.10);border-radius:10px;padding:8px 12px;margin-top:8px;font-size:.9em}
+.dots{text-align:center}.dots i{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--ln);margin:0 4px}.dots i.on{background:var(--b)}
+.big{font-size:48px;text-align:center}.center{text-align:center}a{color:var(--b)}
+p b,li b,label b,.small b{font-weight:600;background:linear-gradient(transparent 58%,#ffe58a 58%);border-radius:2px;padding:0 1px;color:inherit}
+b.rd{color:#d1242f!important;background:none!important;font-weight:700}
+@media(prefers-color-scheme:dark){p b,li b,label b,.small b{background:linear-gradient(transparent 58%,#5c4a00 58%)}b.rd{color:#ff7b72!important}}
+header{position:relative;overflow:hidden;background:linear-gradient(135deg,#1f6feb 0%,#5b4bdb 55%,#0aa2c0 100%)!important}
+header:before,header:after{content:"";position:absolute;border-radius:50%;background:rgba(255,255,255,.13)}
+header:before{width:140px;height:140px;right:-40px;top:-60px}header:after{width:80px;height:80px;right:90px;bottom:-45px;background:rgba(255,255,255,.1)}
+header>*{position:relative;z-index:1}
+body{background:radial-gradient(circle at 8% 6%,rgba(31,111,235,.10),transparent 36%),radial-gradient(circle at 95% 24%,rgba(10,162,192,.10),transparent 34%),radial-gradient(circle at 15% 90%,rgba(91,75,219,.09),transparent 40%),var(--bg);background-attachment:fixed}
+.card{box-shadow:0 2px 10px rgba(31,111,235,.07)}
+.card.lv>b:first-child{display:block;font-size:1.05em;color:var(--w1)}.card.lv.canh_bao>b:first-child{color:var(--w2)}.card.lv.khan_cap>b:first-child{color:var(--w3)}
+.card.lv.khan_cap{background:linear-gradient(180deg,rgba(207,34,46,.07),var(--c) 60%)}
+nav button .ic{display:block;font-size:1.25em;line-height:1.1}
+.card>b:first-child,.rowx>b{font-size:1.02em}
+@media(prefers-reduced-motion:no-preference){button{transition:transform .08s}button:active{transform:scale(.97)}}
+.kw{display:inline-block;background:rgba(209,36,47,.10);color:#b42318;border-radius:6px;padding:0 6px;font-weight:600}.lvp{vertical-align:2px}.lvp.khan_cap{background:#d1242f;color:#fff}.lvp.canh_bao{background:#fb8500;color:#fff}.lvp.luu_y{background:#f2cc60;color:#3d2e00}
+.pop{touch-action:none;cursor:grab;user-select:none;position:fixed;left:50%;top:14px;transform:translateX(-50%);width:min(92vw,420px);background:var(--c);border:1px solid var(--ln);border-left:6px solid #e85d04;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.25);padding:12px 14px;z-index:99;animation:popIn .25s ease}
+.pop.khan_cap{border-left-color:#d1242f}.pop b{display:block;margin-bottom:3px}@keyframes popIn{from{opacity:0;transform:translate(-50%,-10px)}to{opacity:1;transform:translate(-50%,0)}}
+.al{display:flex;gap:10px;align-items:center;padding:9px 0;border-bottom:1px solid var(--ln)}.al:last-child{border-bottom:none}.al .lvb{font-size:1.3em}.al small{display:block;color:var(--m)}
+.drillc{display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit}.drillc .dico{font-size:1.8em}.drillc span:nth-child(2){flex:1}.drillc .dgo{font-size:1.6em;color:var(--m)}.drillc.due{border:2px solid #6d28d9}
+nav .cnt{background:#d1242f;color:#fff;border-radius:99px;font-size:.7em;padding:1px 6px;margin-left:3px}
+.res{border-radius:12px;padding:10px 12px;margin-top:10px;border-left:5px solid}.res.warn{background:#faf7ff;border-color:#8250df}.res.ok{background:#eef9f0;border-color:#1a7f37}.res p{margin:6px 0}@media(prefers-color-scheme:dark){.res.warn{background:#1d1630}.res.ok{background:#12261a}}
+</style>
+</head>
+<body>
+<header><h1>🛡️ EduShield AI</h1><p>Cảnh báo sớm, bạn là người quyết định</p></header>
+<div class="stat" id="statline">🟢 Phân tích ngay trên máy bạn · không lưu tin nhắn</div>
+<main>
+
+<section id="consent" class="card hide">
+  <div class="dots"><i class="on"></i><i></i><i></i></div>
+  <div id="c1"><div class="big">🛡️</div><h2 class="center">Mình giúp bạn nhận ra <b class="rd">tin nhắn xấu</b></h2><p>Tin nhắn làm bạn khó chịu hoặc nghi lừa đảo? Dán vào đây, mình nhắc bạn nhẹ nhàng và gợi ý việc nên làm.</p><button data-go="2">Tiếp theo</button></div>
+  <div id="c2" class="hide"><div class="big">🔒</div><h2 class="center">Mọi thứ ở <b class="rd">trong máy bạn</b></h2>
+    <p>✅ Phân tích ngay trên điện thoại.<br>✅ <b class="rd">Không lưu</b> nội dung tin nhắn, không tự đọc ứng dụng khác.<br>✅ Đóng góp thống kê cho trường là <b>tuỳ chọn, tắt mặc định</b>, nhà trường không thấy nội dung.<br>✅ Có nút xoá dữ liệu bất cứ lúc nào.</p>
+    <p>⚠️ Mình <b class="rd">chỉ cảnh báo</b> và có thể sai. Bạn là người quyết định.</p><button class="sec" data-go="1">Quay lại</button><button data-go="3">Tiếp theo</button></div>
+  <div id="c3" class="hide"><div class="big">🙋</div><h2 class="center">Bạn tự quyết định</h2>
+    <label><input type="checkbox" id="agree"> Mình đã hiểu và <b>tự nguyện</b> dùng EduShield.</label><p class="small">Xem <a href="chinh-sach.html" target="_blank">chính sách quyền riêng tư</a>.</p>
+    <button class="sec" data-go="2">Quay lại</button><button id="startBtn" disabled>Bắt đầu</button></div>
+</section>
+
+<section id="tab-check">
+  <a class="card drillc" id="drillCard" href="drill.html"><span class="dico">🎯</span><span><b>Thực chiến giả lập</b><br><small id="drillState">Luyện phản xạ với tình huống giả định</small></span><span class="dgo">›</span></a>
+  <div class="card">
+    <b>🔎 Kiểm tra tin nhắn, bình luận, link</b>
+    <textarea id="txt" placeholder="Dán tin nhắn cần kiểm tra..."></textarea>
+    <button id="checkBtn">🔍 Kiểm tra</button><button class="sec" id="pasteBtn">📋 Dán và kiểm tra</button><button class="sec" id="clearBtn">🧹 Xoá</button>
+    <details class="small" id="howShare"><summary>Kiểm tra tin từ Zalo, Messenger</summary>
+      <ol><li><b>Zalo:</b> nhấn giữ tin nhắn → <b>Sao chép</b> → mở EduShield → <b>📋 Dán và kiểm tra</b>.</li>
+      <li><b>Messenger:</b> nhấn giữ tin nhắn → <b>Sao chép</b> → <b>📋 Dán và kiểm tra</b>.</li>
+      <li><b>Link, bài viết, chữ bôi đen (Android):</b> bấm <b>Chia sẻ</b> → chọn <b>EduShield</b>, app tự kiểm tra ngay.</li></ol>
+      <p>iPhone chưa cho ứng dụng web nhận “Chia sẻ”, hãy dùng cách sao chép.</p></details>
+    <p class="small" style="margin-bottom:2px">Thử nhanh với tin mẫu (không phải tin thật):</p>
+    <button class="chip" data-s="0">Mạo danh cô giáo</button><button class="chip" data-s="1">Lời nặng nề</button><button class="chip" data-s="2">Tin bình thường</button><button class="chip" data-s="3">Tin tuyên truyền</button>
+  </div>
+  <div id="result"></div>
+  <div class="card" id="outCard">
+    <b>✍️ Tin mình sắp gửi</b>
+    <p class="small">Dán hoặc gõ tin bạn định gửi. EduShield nhắc nếu tin có thể làm người khác tổn thương, giống lừa đảo hoặc là mã OTP. Tin không được lưu hay gửi đi đâu.</p>
+    <textarea id="outTxt" placeholder="Tin mình định gửi..."></textarea>
+    <button id="outBtn">✋ Kiểm tra trước khi gửi</button>
+    <div id="outRes"></div>
+  </div>
+</section>
+
+<section id="tab-stats" class="hide">
+  <div class="card">
+    <b>⚙️ Cài đặt của bạn</b>
+    <label class="small">Mức nhạy khi cảnh báo</label>
+    <select id="sens"><option value="it">Ít phiền (chỉ báo khi khá chắc)</option><option value="can_bang">Cân bằng</option><option value="nhay">Nhạy (báo sớm hơn, có thể báo nhầm nhiều hơn)</option></select>
+    <label><input type="checkbox" id="large"> Chữ lớn</label>
+  </div>
+  <div class="card" id="shareCard">
+    <div class="rowx"><b>🏫 Gửi về nhà trường</b><span class="pill off" id="shPill">Đang tắt</span></div>
+    <div class="seg" id="modeSeg"><button data-m="tat">Tắt</button><button data-m="an_danh">Ẩn danh</button><button data-m="danh_tinh">Tên – lớp</button></div>
+    <p class="small" id="modeHint"></p>
+    <div id="idBox" class="hide"><input type="text" id="stName" placeholder="Họ và tên" maxlength="60"><input type="text" id="stCls" placeholder="Lớp (vd 10A1)" maxlength="12"></div>
+    <label class="small hide" id="consentRow"><input type="checkbox" id="parental"> Mình từ 16 tuổi trở lên hoặc đã được cha mẹ đồng ý, và tự nguyện tham gia.</label>
+    <button id="shSave">Lưu lựa chọn</button><button class="sec hide" id="shSend">🚀 Gửi thống kê ngay</button><button class="sec hide" id="shPrev">👁️ Xem gói</button>
+    <p id="shMsg" class="msg hide"></p>
+    <pre id="shOut" class="hide"></pre>
+  </div>
+  <div class="card hide" id="noCollect"><b>🔒 Bản công khai không thu thập</b><p class="small">Bản này không gửi bất cứ dữ liệu nào đi đâu. Mọi thứ chạy trong máy bạn.</p></div>
+  <div class="card" id="installCard">
+    <b>📲 Cài app và chia sẻ</b>
+    <p class="small" id="installHint">Cài EduShield lên màn hình chính để mở nhanh như một ứng dụng.</p>
+    <button class="hide" id="installBtn">Cài app vào màn hình chính</button>
+    <button class="sec" id="shareApp">Chia sẻ app cho bạn bè</button>
+    <p class="small"><a href="cai-dat.html">Xem hướng dẫn cài đặt từng bước</a></p>
+    <p class="msg hide" id="installMsg"></p>
+  </div>
+  <div class="card">
+    <b>🗂️ Dữ liệu của tôi</b>
+    <p class="small" id="localInfo"></p>
+    <button class="sec" id="seeData">👁️ Xem chi tiết</button><button class="danger" id="wipe">🗑️ Xoá toàn bộ</button>
+    <pre id="dataOut" class="hide"></pre>
+  </div>
+</section>
+
+<section id="tab-alerts" class="hide">
+  <div class="card">
+    <div class="rowx"><b>🔔 Cảnh báo gần đây</b><button class="sec" id="alClear">🧹 Xoá danh sách</button></div>
+    <p class="small">Chỉ lưu <b class="rd">mức độ, loại nguy cơ và ngày</b>. Không lưu nội dung tin nhắn hay link. Tối đa 30 mục.</p>
+    <div id="alList"></div>
+  </div>
+  <div class="card">
+    <div class="rowx"><b>📲 Thông báo trên màn hình</b><span class="pill off" id="ntPill">Đang tắt</span></div>
+    <p class="small">Khi phát hiện nguy cơ, máy hiện thông báo (pop-up) ở thanh thông báo / màn hình nền. Thông báo <b class="rd">không kèm</b> nội dung tin nhắn.</p>
+    <button class="full" id="ntBtn">🔔 Bật thông báo</button>
+    <p class="small" id="ntHint"></p>
+  </div>
+</section>
+<section id="tab-help" class="hide">
+  <div class="card" id="sosCard">
+    <div class="rowx"><b>🆘 Người hỗ trợ khẩn cấp</b><button class="sec" id="ctAddBtn">＋ Thêm</button></div>
+    <div id="ctList"></div>
+    <div id="ctForm" class="hide"><input type="text" id="ctName" placeholder="Tên gọi (vd: Mẹ)" maxlength="30"><input type="tel" id="ctPhone" placeholder="Số điện thoại" maxlength="15">
+      <button id="ctSave">Lưu</button><button class="sec" id="ctCancel">Huỷ</button></div>
+    <p class="small">Số chỉ lưu trên điện thoại này.</p>
+  </div>
+  <div class="card">
+    <b>🆘 Cần giúp ngay</b>
+    <p>Tổng đài quốc gia bảo vệ trẻ em: <a href="tel:111"><b>111</b></a> (miễn phí, 24/7).<br>Công an khẩn cấp: <a href="tel:113"><b>113</b></a>.</p>
+    <ul><li>Chụp màn hình lưu bằng chứng, không xoá tin.</li><li>Chặn và báo cáo tài khoản trên nền tảng.</li><li>Nói với thầy cô, cha mẹ hoặc phòng tư vấn của trường.</li><li>Không chuyển tiền, không gửi mã OTP, mật khẩu cho bất kỳ ai.</li></ul>
+    <p class="small">EduShield là công cụ hỗ trợ, không thay thế sự giúp đỡ của con người. <a href="chinh-sach.html" target="_blank">Chính sách quyền riêng tư</a></p>
+  </div>
+</section>
+</main>
+<nav><button data-t="check" class="on"><span class="ic">🔎</span>Kiểm tra</button><button data-t="alerts"><span class="ic">🔔</span>Cảnh báo<span class="cnt hide" id="alCnt"></span></button><button data-t="stats"><span class="ic">⚙️</span>Cài đặt</button><button data-t="help"><span class="ic">🆘</span>Cần giúp</button></nav>
+<script src="config.js"></script><script src="model.js"></script><script src="blocklist.js"></script><script src="detector.js"></script><script src="sha256.js"></script><script src="drill.js"></script><script src="app.js"></script><script src="deco.js"></script>
+</body></html>
